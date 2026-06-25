@@ -960,5 +960,5 @@ TAVILY_API_KEY="tvly-your-key"
 
 ---
 
-*Built for MediTech Solutions as a Capstone Project prototype.*
+*Built for MediTech Solutions as a Capstone Project prototype. By - sakshamagarwalm2@gmail.com*
 *Technology: LangGraph · OpenAI GPT-4o · Tavily Search · Python 3.11.13*
