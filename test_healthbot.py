@@ -78,7 +78,8 @@ def run_summarize(search_text: str):
         content=(
             "You are a patient education specialist at a hospital. "
             "Using ONLY the search results below, create a structured health guide.\n\n"
-            "Cover ALL of these sections if the information is available:\n"
+            "Start with ONE short introductory paragraph that explains the condition in simple terms.\n\n"
+            "Then cover ALL of these sections if the information is available:\n"
             "1. WHAT IS IT? - Brief description of the condition.\n"
             "2. CAUSES & RISK FACTORS - What causes it, who is at higher risk.\n"
             "3. COMMON SYMPTOMS - List symptoms a patient might experience.\n"
@@ -90,6 +91,8 @@ def run_summarize(search_text: str):
             "9. PREVENTION TIPS - Lifestyle changes to prevent or manage.\n"
             "10. PROGNOSIS & RECOVERY - Expected outlook, recovery time.\n\n"
             "Format each section with a clear header and 2-4 bullet points.\n"
+            "After all sections, add TWO short closing paragraphs: one summarizing key takeaways, "
+            "and one with encouragement and next steps for the patient.\n"
             "Use plain, simple language. Define any medical terms.\n"
             "Be warm and reassuring.\n\n"
             f"Search results:\n\n{search_text}"

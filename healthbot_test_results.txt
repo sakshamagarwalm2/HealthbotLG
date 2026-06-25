@@ -1,6 +1,6 @@
 ================================================================================
   HealthBot Test Suite Results
-  Date: 2026-06-25 15:39:14
+  Date: 2026-06-25 15:59:17
   Total: 24  |  Passed: 24  |  Failed: 0  |  Rate: 100.0%
 ================================================================================
 
@@ -10,56 +10,57 @@
   User Input: "diabetes"
   Search Query: "diabetes causes symptoms treatment doctors"
   Search Results: 5
-  Summary (2356 chars):
-    # Health Guide: Understanding Diabetes
+  Summary (2729 chars):
+    **Understanding Diabetes: A Simple Guide**
     
-    ## 1. WHAT IS IT?
-    - Diabetes is a chronic condition where your blood sugar (glucose) levels are too high. It occurs when your body doesn't produce enough insulin or doesn't use it properly.
-    - There are several types of diabetes, with Type 2 being the most common.
+    Diabetes is a common condition that affects how your body uses sugar (glucose) for energy. It occurs when your body either doesn't make enough insulin, a hormone that helps sugar enter your cells, or can't use insulin effectively. This leads to high levels of sugar in your blood, which can cause various health problems over time.
     
-    ## 2. CAUSES & RISK FACTORS
-    - **Causes**: High blood sugar due to insufficient insulin production or insulin resistance.
-    - **Risk Factors**: Family history, being over 45, overweight, physically inactive, having high blood pressure or cholesterol, and certain ethnic backgrounds.
+    ### 1. WHAT IS IT?
+    - Diabetes is a condition where blood sugar levels are too high.
+    - It occurs when the pancreas doesn't produce enough insulin or the body can't use insulin properly.
     
-    ## 3. COMMON SYMPTOMS
+    ### 2. CAUSES & RISK FACTORS
+    - Causes include genetic factors and lifestyle choices such as diet and physical activity.
+    - Risk factors include being overweight, having a family history of diabetes, and being over 40 years old.
+    
+    ### 3. COMMON SYMPTOMS
     - Increased thirst and frequent urination.
-    - Feeling very hungry or tired.
-    - Blurred vision and slow-healing sores.
-    - Tingling or numbness in hands or feet.
+    - Unexplained weight loss.
+    - Fatigue and tiredness.
+    - Blurry vision and slow-healing sores.
     
-    ## 4. DIAGNOSIS & TESTS
-    - **A1C Test**: Measures average blood sugar over the past 2-3 months.
-    - **Fasting Blood Glucose Test**: Measures blood sugar after fasting.
-    - **Random Blood Glucose Test**: Measures blood sugar at any time.
+    ### 4. DIAGNOSIS & TESTS
+    - Blood tests like the A1C test, fasting blood sugar test, and oral glucose tolerance test are used to diagnose diabetes.
     
-    ## 5. TREATMENT OPTIONS
-    - **Lifestyle Changes**: Healthy eating, regular exercise, and weight management.
-    - **Medications**: Includes Metformin and insulin therapy.
-    - **Monitoring**: Regular blood sugar checks.
+    ### 5. TREATMENT OPTIONS
+    - Lifestyle changes such as healthy eating and regular exercise.
+    - Medications like Metformin and insulin therapy.
+    - Monitoring blood sugar levels regularly.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - **Endocrinologist**: Specialist in hormone-related conditions.
-    - **Primary Care Provider**: For routine check-ups and management.
-    - **Dietitian**: For nutritional guidance.
+    ### 6. WHICH DOCTOR TO SEE
+    - An endocrinologist, who specializes in hormone-related conditions, is often involved in diabetes care.
+    - Other specialists may include dietitians, podiatrists, and ophthalmologists.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Severe high blood sugar (hyperglycemia) or low blood sugar (hypoglycemia).
-    - Symptoms like confusion, seizures, or loss of consciousness require immediate medical attention.
+    ### 7. EMERGENCY WARNING SIGNS
+    - Symptoms like extreme thirst, confusion, and fruity-smelling breath may indicate a serious condition called diabetic ketoacidosis, requiring immediate medical attention.
     
-    ## 8. COMPLICATIONS
-    - Heart disease, nerve damage, kidney damage, eye problems, and foot issues.
-    - Increased risk of infections and potential for severe complications if untreated.
+    ### 8. COMPLICATIONS
+    - If left untreated, diabetes can lead to heart disease, nerve damage, kidney problems, and vision issues.
     
-    ## 9. PREVENTION TIPS
-    - Maintain a healthy diet and regular physical activity.
-    - Monitor your weight and manage stress.
-    - Regular health check-ups to monitor blood sugar levels.
+    ### 9. PREVENTION TIPS
+    - Maintain a healthy weight and engage in regular physical activity.
+    - Eat a balanced diet rich in fruits, vegetables, and whole grains.
+    - Avoid smoking and limit alcohol intake.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - Diabetes is a lifelong condition but manageable with proper care.
-    - Regular monitoring and lifestyle adjustments can help maintain a good quality of life and prevent complications.
+    ### 10. PROGNOSIS & RECOVERY
+    - With proper management, individuals with diabetes can lead healthy lives.
+    - Regular monitoring and lifestyle adjustments are key to managing the condition effectively.
     
-    Remember, managing diabetes involves a team effort. Stay informed, follow your treatment plan, and don't hesitate to reach out to your healthcare team for support.
+    **Key Takeaways:**
+    Diabetes is a manageable condition with the right care and lifestyle changes. Regular check-ups and monitoring are crucial to prevent complications. 
+    
+    **Encouragement and Next Steps:**
+    Remember, you are not alone in managing diabetes. Work closely with your healthcare team to develop a personalized plan. Stay informed, and don't hesitate to reach out for support from family, friends, and support groups. Together, you can take control of your health and live a fulfilling life.
 
 --------------------------------------------------------------------------------
   Test # 2 [condition   ] Common condition - exact name
@@ -67,46 +68,51 @@
   User Input: "hypertension"
   Search Query: "hypertension causes symptoms treatment doctors"
   Search Results: 5
-  Summary (2305 chars):
-    # Hypertension (High Blood Pressure) Health Guide
+  Summary (3115 chars):
+    High blood pressure, also known as hypertension, is a common condition where the force of the blood against the artery walls is consistently too high. This can lead to serious health problems like heart disease, stroke, and kidney disease if not managed properly. Understanding hypertension, its causes, symptoms, and treatment options can help you take control of your health.
     
-    ## 1. WHAT IS IT?
-    - Hypertension, or high blood pressure, is a condition where the force of blood against artery walls is consistently too high.
-    - It can lead to damage of blood vessels and organs, increasing the risk of heart disease, stroke, and other health issues.
+    ### 1. WHAT IS IT?
+    - Hypertension is when the blood pressure in your arteries is higher than normal.
+    - It is often called a "silent killer" because it usually has no symptoms but can lead to serious health issues over time.
     
-    ## 2. CAUSES & RISK FACTORS
-    - **Primary Hypertension**: Develops over time with no identifiable cause, linked to genetics, lifestyle, and diet.
-    - **Secondary Hypertension**: Caused by underlying conditions like kidney disease or sleep apnea.
-    - **Risk Factors**: Age, family history, obesity, lack of exercise, high salt diet, excessive alcohol, and smoking.
+    ### 2. CAUSES & RISK FACTORS
+    - **Primary Hypertension:** Develops gradually over time with no identifiable cause.
+    - **Secondary Hypertension:** Caused by underlying conditions like kidney disease, adrenal gland tumors, or certain medications.
+    - **Risk Factors:** Age, family history, obesity, lack of physical activity, high salt diet, alcohol consumption, stress, and smoking.
     
-    ## 3. COMMON SYMPTOMS
-    - Often, there are no symptoms, earning it the name "silent killer."
-    - Severe cases may cause headaches, dizziness, nosebleeds, and shortness of breath.
+    ### 3. COMMON SYMPTOMS
+    - Most people experience no symptoms.
+    - Severe hypertension may cause headaches, shortness of breath, nosebleeds, dizziness, and chest pain.
     
-    ## 4. DIAGNOSIS & TESTS
-    - Blood pressure is measured using a cuff. Readings are taken on multiple occasions to confirm diagnosis.
-    - Additional tests may include blood tests, urine tests, EKG, or echocardiogram to check for related conditions.
+    ### 4. DIAGNOSIS & TESTS
+    - Blood pressure is measured using a cuff around the arm.
+    - Diagnosis is based on two or more readings on separate occasions.
+    - Additional tests may include blood and urine tests, ECG, and echocardiogram to check for underlying conditions.
     
-    ## 5. TREATMENT OPTIONS
-    - **Lifestyle Changes**: Healthy diet, regular exercise, reducing salt intake, and quitting smoking.
-    - **Medications**: Diuretics, beta-blockers, ACE inhibitors, and calcium channel blockers.
-    - **Stress Reduction**: Techniques like yoga and meditation can help.
+    ### 5. TREATMENT OPTIONS
+    - **Lifestyle Changes:** Healthy diet, regular exercise, reducing salt intake, quitting smoking, and limiting alcohol.
+    - **Medications:** Diuretics, beta-blockers, ACE inhibitors, calcium channel blockers, and ARBs.
+    - Treatment plans are personalized based on individual health needs.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - A cardiologist specializes in heart health and can provide comprehensive care for hypertension.
+    ### 6. WHICH DOCTOR TO SEE
+    - A primary care physician or a cardiologist can manage hypertension.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Seek immediate help if blood pressure is 180/120 mm Hg or higher and accompanied by severe symptoms like chest pain, difficulty breathing, or vision changes.
+    ### 7. EMERGENCY WARNING SIGNS
+    - Blood pressure higher than 180/120 mm Hg with symptoms like chest pain, shortness of breath, or severe headache requires immediate medical attention.
     
-    ## 8. COMPLICATIONS
-    - Untreated hypertension can lead to heart attack, stroke, kidney damage, vision loss, and heart failure.
+    ### 8. COMPLICATIONS
+    - If untreated, hypertension can lead to heart attack, stroke, kidney damage, vision loss, and heart failure.
     
-    ## 9. PREVENTION TIPS
-    - Maintain a healthy weight, eat a balanced diet, exercise regularly, limit alcohol, and avoid smoking.
-    - Regular blood pressure checks are essential for early detection and management.
+    ### 9. PREVENTION TIPS
+    - Maintain a healthy weight, eat a balanced diet rich in fruits and vegetables, exercise regularly, avoid smoking, and manage stress.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - With proper management, individuals can live a healthy life. Lifestyle changes and medication can control blood pressure and reduce risks of complications. Regular follow-ups with healthcare providers are crucial for ongoing management.
+    ### 10. PROGNOSIS & RECOVERY
+    - With proper management, individuals can lead a healthy life.
+    - Lifelong management may be necessary for primary hypertension, while secondary hypertension can often be resolved by treating the underlying cause.
+    
+    In summary, high blood pressure is a manageable condition with the right lifestyle changes and medical treatment. Regular check-ups and monitoring your blood pressure are crucial in preventing complications. Remember, taking small steps towards a healthier lifestyle can make a big difference in managing hypertension.
+    
+    If you suspect you have high blood pressure or have been diagnosed with it, work closely with your healthcare provider to create a treatment plan that works for you. Stay informed, stay active, and take control of your health for a better quality of life.
 
 --------------------------------------------------------------------------------
   Test # 3 [condition   ] Common condition - exact name
@@ -114,54 +120,56 @@
   User Input: "asthma"
   Search Query: "asthma causes symptoms treatment doctors"
   Search Results: 5
-  Summary (2209 chars):
-    # Asthma Health Guide
+  Summary (3089 chars):
+    Asthma is a long-term condition that affects the airways in your lungs, causing them to swell, narrow, and fill with mucus. This can make it difficult to breathe and may lead to symptoms like coughing, wheezing, and chest tightness. While asthma cannot be cured, its symptoms can be managed with proper treatment and lifestyle adjustments.
     
-    ## 1. WHAT IS IT?
-    - Asthma is a chronic lung condition where the airways swell, narrow, and fill with mucus, making it difficult to breathe. 
-    - It can cause symptoms like coughing, wheezing, shortness of breath, and chest tightness.
+    ### WHAT IS IT?
+    - Asthma is a chronic lung disease characterized by inflammation and narrowing of the airways.
+    - It can cause breathing difficulties, coughing, wheezing, and chest tightness.
     
-    ## 2. CAUSES & RISK FACTORS
-    - The exact cause is unknown, but risk factors include having allergies, eczema, a family history of asthma, exposure to smoke or pollution, and respiratory infections.
-    - Obesity and occupational exposures to chemicals can also increase risk.
+    ### CAUSES & RISK FACTORS
+    - The exact cause of asthma is unknown, but it may be influenced by genetic and environmental factors.
+    - Risk factors include having allergies, eczema, a family history of asthma, being overweight, smoking, and exposure to pollutants or occupational triggers.
     
-    ## 3. COMMON SYMPTOMS
+    ### COMMON SYMPTOMS
     - Shortness of breath
     - Wheezing
     - Chest tightness or pain
-    - Persistent cough, especially at night
+    - Coughing, especially at night or early morning
     
-    ## 4. DIAGNOSIS & TESTS
-    - Doctors diagnose asthma through a combination of medical history, physical exams, and lung function tests like spirometry.
-    - Allergy tests and imaging tests like X-rays may also be used.
+    ### DIAGNOSIS & TESTS
+    - Asthma is diagnosed by an allergist or pulmonologist through a medical history review and lung function tests.
+    - Tests may include spirometry, peak flow measurement, allergy tests, and chest X-rays.
     
-    ## 5. TREATMENT OPTIONS
-    - Maintenance inhalers with corticosteroids to reduce inflammation.
-    - Rescue inhalers for quick relief during attacks.
-    - Avoiding known triggers and using a personalized asthma action plan.
-    - In severe cases, oral steroids or biologic therapies might be prescribed.
+    ### TREATMENT OPTIONS
+    - **Medications**: Maintenance inhalers (often containing corticosteroids), rescue inhalers (e.g., albuterol), leukotriene modifiers, and biologic therapy for severe cases.
+    - **Lifestyle Changes**: Avoiding triggers, maintaining a healthy weight, and regular exercise.
+    - **Asthma Action Plan**: A personalized plan developed with your doctor to manage symptoms and know when to seek emergency care.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - An allergist or pulmonologist specializes in diagnosing and treating asthma.
+    ### WHICH DOCTOR TO SEE
+    - An allergist or pulmonologist specializes in asthma care.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Rapid worsening of shortness of breath or wheezing.
-    - No improvement after using a rescue inhaler.
-    - Difficulty speaking or doing minimal physical activity.
+    ### EMERGENCY WARNING SIGNS
+    - Rapid worsening of shortness of breath or wheezing
+    - No improvement after using a quick-relief inhaler
+    - Difficulty speaking or performing minimal physical activity
     
-    ## 8. COMPLICATIONS
-    - Untreated asthma can lead to severe flare-ups, permanent narrowing of airways, and increased risk of hospitalization.
+    ### COMPLICATIONS
+    - Severe asthma attacks can be life-threatening.
+    - Long-term complications include permanent airway narrowing and frequent hospital visits.
     
-    ## 9. PREVENTION TIPS
-    - Avoid triggers like smoke, pollen, and strong odors.
-    - Maintain a healthy weight and manage stress.
-    - Follow an asthma action plan and keep up with vaccinations.
+    ### PREVENTION TIPS
+    - Follow your asthma action plan and take medications as prescribed.
+    - Avoid known triggers and allergens.
+    - Get vaccinated for flu and pneumonia to prevent respiratory infections.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - With proper management, many people with asthma can lead normal, active lives.
-    - Regular monitoring and treatment adjustments are crucial for maintaining control over symptoms. 
+    ### PROGNOSIS & RECOVERY
+    - With proper management, most people with asthma can lead normal, active lives.
+    - Regular monitoring and treatment adjustments are essential to keep asthma under control.
     
-    Remember, asthma is a manageable condition, and with the right care and lifestyle adjustments, you can keep your symptoms under control. Always consult with your healthcare provider for personalized advice and treatment.
+    In summary, while asthma is a chronic condition, it can be effectively managed with the right treatment and lifestyle changes. It's important to work closely with your healthcare provider to develop a personalized asthma action plan and to recognize your triggers. Remember, you are not alone, and there are resources and support available to help you manage your asthma.
+    
+    If you suspect you have asthma or your symptoms are worsening, please consult your healthcare provider. They can help you develop a plan to manage your condition and improve your quality of life. Stay proactive in your care, and don't hesitate to reach out for support when needed.
 
 --------------------------------------------------------------------------------
   Test # 4 [condition   ] Condition with type specification
@@ -169,183 +177,185 @@
   User Input: "type 2 diabetes"
   Search Query: "type 2 diabetes causes symptoms treatment doctors"
   Search Results: 5
-  Summary (2330 chars):
-    ## Type 2 Diabetes Health Guide
+  Summary (3022 chars):
+    **Understanding Type 2 Diabetes: A Simple Guide**
+    
+    Type 2 diabetes is a common condition that affects how your body processes sugar (glucose), which is a vital source of energy. When you have type 2 diabetes, your body either resists the effects of insulin—a hormone that regulates the movement of sugar into your cells—or it doesn't produce enough insulin to maintain normal glucose levels. Managing this condition involves lifestyle changes, medications, and regular monitoring.
     
     ### 1. WHAT IS IT?
-    - Type 2 diabetes (T2D) is a chronic condition where the body can't use insulin properly, leading to high blood sugar levels.
-    - It requires lifelong management through lifestyle changes, medications, and regular healthcare check-ups.
+    - Type 2 diabetes occurs when your body can't use insulin properly or doesn't make enough of it, leading to high blood sugar levels.
+    - It is a chronic condition that requires ongoing management.
     
     ### 2. CAUSES & RISK FACTORS
-    - **Causes**: Insulin resistance, where cells don't respond well to insulin, and insufficient insulin production.
-    - **Risk Factors**: Genetics, excess body fat, physical inactivity, poor diet, certain medications, and hormonal disorders. Age, family history, and ethnicity also play roles.
+    - **Causes**: Insulin resistance, where cells in your body don't respond well to insulin.
+    - **Risk Factors**: Genetics, excess body fat (especially around the belly), physical inactivity, age (more common after 45), and family history.
     
     ### 3. COMMON SYMPTOMS
-    - Increased thirst and urination
-    - Fatigue and increased hunger
+    - Increased thirst and frequent urination
+    - Increased hunger
+    - Fatigue
+    - Blurred vision
     - Slow healing of cuts or sores
     - Tingling or numbness in hands or feet
-    - Blurred vision and unexplained weight loss
     
     ### 4. DIAGNOSIS & TESTS
-    - **Blood Tests**: Fasting plasma glucose test, random plasma glucose test, and A1C test.
-    - **Screening**: Regular blood sugar level checks, especially if you have risk factors.
+    - **Blood Tests**: Fasting plasma glucose test, A1C test, and random plasma glucose test.
+    - These tests measure your blood sugar levels to diagnose diabetes.
     
     ### 5. TREATMENT OPTIONS
-    - **Lifestyle Changes**: Healthy diet, regular exercise, and weight management.
-    - **Medications**: Oral medications like metformin, injectable medications, and sometimes insulin.
-    - **Monitoring**: Regular glucose monitoring to manage blood sugar levels effectively.
+    - **Lifestyle Changes**: Healthy eating, regular physical activity, and weight management.
+    - **Medications**: Metformin is commonly prescribed, along with other oral medications and sometimes insulin.
+    - **Monitoring**: Regular blood sugar monitoring is crucial.
     
     ### 6. WHICH DOCTOR TO SEE
-    - Endocrinologist (specializes in diabetes care)
-    - Primary care physician for regular check-ups
-    - Dietitian for nutritional guidance
+    - Endocrinologist: A specialist in hormonal disorders, including diabetes.
+    - Primary care physician for regular check-ups and management.
     
     ### 7. EMERGENCY WARNING SIGNS
-    - Symptoms of very high blood sugar: extreme thirst, frequent urination, and confusion.
-    - Symptoms of low blood sugar: sweating, shakiness, and dizziness.
-    - Seek immediate help if you experience severe symptoms or complications.
+    - Seek immediate help if you experience symptoms of high blood sugar (extreme thirst, frequent urination, drowsiness) or low blood sugar (shakiness, confusion, dizziness).
     
     ### 8. COMPLICATIONS
-    - Cardiovascular disease, nerve damage, kidney damage, eye conditions, and foot problems.
-    - Long-term complications can include heart attack, stroke, and severe infections.
+    - If untreated, can lead to cardiovascular disease, nerve damage, kidney damage, eye damage, and other serious health issues.
     
     ### 9. PREVENTION TIPS
-    - Maintain a healthy weight and engage in regular physical activity.
-    - Eat a balanced diet rich in fiber and low in processed foods.
-    - Avoid smoking and limit alcohol intake.
+    - Maintain a healthy weight, eat a balanced diet, exercise regularly, and avoid smoking.
+    - Regular check-ups to monitor blood sugar levels.
     
     ### 10. PROGNOSIS & RECOVERY
-    - With proper management, individuals can lead healthy lives and prevent complications.
-    - Regular monitoring and adherence to treatment plans are crucial for maintaining health.
+    - With proper management, individuals can lead a healthy life.
+    - Ongoing lifestyle changes and medication adherence are key to controlling the condition.
+    
+    **Key Takeaways:** Type 2 diabetes is a manageable condition with the right lifestyle changes and medical care. Regular monitoring and a proactive approach to health can prevent complications and improve quality of life.
+    
+    **Encouragement and Next Steps:** Remember, you are not alone in this journey. Your healthcare team is there to support you. Make an appointment with your doctor to discuss your treatment plan and take the first step towards managing your diabetes effectively. Stay positive and proactive in your health management.
 
 --------------------------------------------------------------------------------
   Test # 5 [condition   ] Infectious disease
   Status: PASS
   User Input: "covid-19"
-  Search Query: "covid-19 symptoms transmission prevention treatment vaccine"
+  Search Query: "covid-19 symptoms treatment prevention doctors"
   Search Results: 5
-  Summary (2289 chars):
-    # COVID-19 Health Guide
+  Summary (2457 chars):
+    **Understanding COVID-19: A Health Guide**
     
-    ## 1. WHAT IS IT?
-    - COVID-19 is an infectious disease caused by the SARS-CoV-2 virus.
-    - It was first identified in December 2019 and has since become a global pandemic.
+    COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus. It spreads primarily through respiratory droplets when an infected person coughs, sneezes, or talks. While some people experience mild symptoms, others can develop severe illness, making it important to understand how to protect yourself and others.
     
-    ## 2. CAUSES & RISK FACTORS
-    - The virus spreads through respiratory droplets from coughs, sneezes, or talking.
-    - Risk factors include close contact with infected individuals, crowded spaces, and poor ventilation.
-    - Higher risk of severe illness for older adults, those with chronic conditions, and immunocompromised individuals.
+    ### 1. WHAT IS IT?
+    - COVID-19 is an illness caused by the SARS-CoV-2 virus.
+    - It can range from mild to severe and affects the respiratory system.
     
-    ## 3. COMMON SYMPTOMS
-    - Symptoms appear 2-14 days after exposure and include:
-      - Fever or chills
-      - Cough and shortness of breath
-      - Fatigue and muscle aches
-      - Loss of taste or smell
-      - Sore throat, congestion, or runny nose
-      - Digestive issues like diarrhea or vomiting
+    ### 2. CAUSES & RISK FACTORS
+    - Spread through respiratory droplets.
+    - Higher risk for severe illness in older adults, those with chronic health conditions, and people with weakened immune systems.
     
-    ## 4. DIAGNOSIS & TESTS
-    - Diagnosis is confirmed through PCR or rapid antigen tests.
-    - Testing is recommended if symptoms are present or after exposure to the virus.
+    ### 3. COMMON SYMPTOMS
+    - Fever, cough, and shortness of breath.
+    - Loss of taste or smell, body aches, and fatigue.
+    - Less common symptoms include sore throat, headache, and diarrhea.
     
-    ## 5. TREATMENT OPTIONS
-    - Antiviral medications like Paxlovid, Remdesivir, and Molnupiravir for mild to moderate cases.
-    - Monoclonal antibodies for high-risk patients.
-    - Supportive care includes rest, hydration, and over-the-counter medications for symptom relief.
+    ### 4. DIAGNOSIS & TESTS
+    - Diagnosed through a PCR test or rapid antigen test.
+    - Testing involves swabbing the nose or throat.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - Primary care physicians can manage mild cases.
-    - Infectious disease specialists for severe or complicated cases.
+    ### 5. TREATMENT OPTIONS
+    - Antiviral medications like Paxlovid® and remdesivir.
+    - Over-the-counter medications for symptom relief, such as acetaminophen or ibuprofen.
+    - Monoclonal antibodies for high-risk individuals.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Seek immediate help for:
-      - Difficulty breathing
-      - Persistent chest pain
-      - New confusion or inability to stay awake
-      - Bluish lips or face
+    ### 6. WHICH DOCTOR TO SEE
+    - Consult a primary care physician or an infectious disease specialist.
     
-    ## 8. COMPLICATIONS
-    - Severe cases can lead to acute respiratory distress syndrome, organ failure, or death.
-    - Long COVID may cause prolonged symptoms even after recovery.
+    ### 7. EMERGENCY WARNING SIGNS
+    - Seek immediate help for trouble breathing, chest pain, confusion, or bluish lips.
     
-    ## 9. PREVENTION TIPS
-    - Vaccination is the most effective prevention method.
-    - Practice good hygiene: wash hands frequently and use hand sanitizer.
-    - Wear masks in crowded or poorly ventilated areas.
-    - Maintain physical distancing and improve indoor ventilation.
+    ### 8. COMPLICATIONS
+    - Can lead to severe respiratory issues, long-term symptoms (long COVID), and in severe cases, death.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - Most people recover fully within weeks.
-    - Recovery time varies; some may experience lingering symptoms for months.
-    - Vaccination reduces the risk of severe illness and long-term complications.
+    ### 9. PREVENTION TIPS
+    - Get vaccinated and stay up to date with boosters.
+    - Wear masks in crowded or enclosed spaces.
+    - Practice good hand hygiene and maintain physical distance.
     
-    Stay informed and consult healthcare providers for personalized advice.
+    ### 10. PROGNOSIS & RECOVERY
+    - Recovery times vary; mild cases may recover in weeks, while severe cases can take longer.
+    - Vaccination reduces the risk of severe illness and long-term effects.
+    
+    In summary, COVID-19 is a serious illness that requires attention to symptoms and preventive measures. Vaccination remains the most effective way to protect yourself and others. If you experience symptoms, seek medical advice promptly to explore treatment options.
+    
+    Remember, you're not alone in this. Stay informed, take preventive measures, and reach out to healthcare providers if needed. Your health and safety are a priority, and taking these steps can help manage and reduce the impact of COVID-19.
 
 --------------------------------------------------------------------------------
   Test # 6 [symptom     ] Multiple symptoms description
   Status: PASS
   User Input: "I have chest pain and shortness of breath"
-  Search Query: "chest pain shortness of breath medical condition causes treatment"
+  Search Query: "chest pain shortness of breath causes symptoms treatment doctors"
   Search Results: 5
-  Summary (2524 chars):
-    # Health Guide: Chest Pain and Shortness of Breath
+  Summary (3567 chars):
+    **Understanding Chest Pain and Shortness of Breath**
     
-    ## 1. WHAT IS IT?
-    - Chest pain and shortness of breath are alarming symptoms that often occur together and can indicate serious health issues involving the heart or lungs.
+    Experiencing chest pain and shortness of breath can be alarming and should not be ignored. These symptoms can indicate a range of conditions, from minor issues to serious heart or lung problems. It's crucial to understand what these symptoms might mean and when to seek medical help.
     
-    ## 2. CAUSES & RISK FACTORS
+    ### 1. WHAT IS IT?
+    - Chest pain and shortness of breath often occur together and can signal problems with the heart or lungs.
+    - These symptoms can range from mild to severe and may appear suddenly or gradually.
+    
+    ### 2. CAUSES & RISK FACTORS
     - **Heart-related causes**: Coronary artery disease, heart attack, heart failure, arrhythmias.
-    - **Lung-related causes**: Pulmonary embolism, COPD, pneumonia.
-    - **Other causes**: Anxiety, panic attacks, acid reflux, musculoskeletal issues.
-    - **Risk factors**: High blood pressure, high cholesterol, smoking, diabetes, obesity.
+    - **Lung-related causes**: Pulmonary embolism, COPD, pneumonia, asthma.
+    - **Other causes**: Anxiety, panic attacks, anemia, obesity, and deconditioning.
+    - Risk factors include high blood pressure, high cholesterol, smoking, diabetes, and family history of heart disease.
     
-    ## 3. COMMON SYMPTOMS
-    - Severe chest pain or pressure.
-    - Shortness of breath, especially during exertion.
+    ### 3. COMMON SYMPTOMS
+    - Chest pain or pressure, often described as tightness or squeezing.
+    - Shortness of breath, which may worsen with activity or occur at rest.
     - Pain spreading to the jaw, neck, or arm.
-    - Dizziness, nausea, or cold sweats.
+    - Dizziness, fainting, or cold sweats.
+    - Coughing up blood or severe wheezing.
     
-    ## 4. DIAGNOSIS & TESTS
-    - **Electrocardiogram (ECG)**: Checks heart rhythm.
-    - **Echocardiogram**: Ultrasound of the heart.
-    - **Stress Test**: Assesses heart function under stress.
-    - **Chest X-ray or CT Scan**: Examines lungs and heart.
-    - **Blood Tests**: Detects markers of heart damage or clotting disorders.
+    ### 4. DIAGNOSIS & TESTS
+    - **Electrocardiogram (ECG)**: Measures heart rhythm to detect heart attack signs.
+    - **Echocardiogram**: Ultrasound imaging of the heart.
+    - **Stress Test**: Evaluates heart performance under exertion.
+    - **Chest X-ray or CT Scan**: Checks for lung problems or fluid around the heart.
+    - **Blood Tests**: Detect markers of heart damage or clotting disorders.
     
-    ## 5. TREATMENT OPTIONS
-    - **Cardiac issues**: Medications, stents, bypass surgery.
-    - **Pulmonary issues**: Blood thinners, antibiotics, inhalers.
-    - **Other causes**: Acid reflux medications, anxiety treatments.
+    ### 5. TREATMENT OPTIONS
+    - **Cardiac issues**: Medications, stents, bypass surgery, lifestyle changes.
+    - **Pulmonary issues**: Blood thinners for clots, antibiotics for infections, inhalers for COPD.
+    - **Other causes**: Acid reflux medications, anxiety treatment, physical therapy for muscle injuries.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - **Cardiologist**: For heart-related symptoms.
-    - **Pulmonologist**: For lung-related symptoms.
-    - **General Practitioner**: Initial assessment and referrals.
+    ### 6. WHICH DOCTOR TO SEE
+    - Cardiologist for heart-related issues.
+    - Pulmonologist for lung-related issues.
+    - General practitioner for initial evaluation.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Sudden, severe chest pain.
+    ### 7. EMERGENCY WARNING SIGNS
+    - Sudden, severe chest pain or pressure.
+    - Pain spreading to the jaw, neck, or arm.
     - Shortness of breath at rest or worsening rapidly.
-    - Pain spreading to other parts of the body.
     - Dizziness, fainting, or cold sweats.
     - Coughing up blood.
     
-    ## 8. COMPLICATIONS
-    - Untreated heart or lung conditions can lead to life-threatening situations like heart attacks or respiratory failure.
+    ### 8. COMPLICATIONS
+    - If left untreated, conditions like heart attack or pulmonary embolism can be life-threatening.
+    - Chronic conditions can lead to worsening symptoms and decreased quality of life.
     
-    ## 9. PREVENTION TIPS
-    - Eat a heart-healthy diet rich in fruits, vegetables, lean proteins, and whole grains.
+    ### 9. PREVENTION TIPS
+    - Maintain a heart-healthy diet rich in fruits, vegetables, lean proteins, and whole grains.
     - Stay active with regular exercise.
     - Quit smoking and avoid secondhand smoke.
     - Manage stress through relaxation techniques.
     - Keep blood pressure, cholesterol, and diabetes under control.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - The outlook depends on the underlying cause and promptness of treatment.
-    - Recovery time varies; following medical advice and lifestyle changes can improve outcomes.
+    ### 10. PROGNOSIS & RECOVERY
+    - The outlook depends on the underlying cause and how quickly treatment is received.
+    - Early intervention can improve recovery and reduce the risk of complications.
     
-    Remember, if you experience chest pain or shortness of breath, it's important to seek medical attention promptly to rule out serious conditions. Stay informed and proactive about your health.
+    **Summary and Encouragement**
+    
+    Chest pain and shortness of breath are serious symptoms that require attention. Understanding the potential causes and knowing when to seek help can make a significant difference in outcomes. Regular check-ups and healthy lifestyle choices are key to prevention and management.
+    
+    If you experience these symptoms, don't hesitate to seek medical advice. Remember, your health is important, and taking action now can lead to a healthier future. Stay informed, stay proactive, and reach out to healthcare professionals when needed.
 
 --------------------------------------------------------------------------------
   Test # 7 [symptom     ] Common symptom description
@@ -353,21 +363,21 @@
   User Input: "my head hurts and I feel dizzy"
   Search Query: "headache dizziness causes symptoms treatment doctors"
   Search Results: 5
-  Summary (2369 chars):
-    # Health Guide: Understanding Head Pressure and Dizziness
+  Summary (3125 chars):
+    Feeling dizzy or experiencing pressure in your head can be unsettling and may interfere with your daily activities. These symptoms can arise from a variety of causes, ranging from minor issues to more serious health conditions. Understanding the potential causes and knowing when to seek medical attention is crucial for managing these symptoms effectively.
     
-    ## 1. WHAT IS IT?
-    - Head pressure and dizziness are sensations that can occur together, often associated with various conditions like migraines, sinusitis, or ear infections.
-    - These sensations can feel like a tight band around the head or a spinning sensation, affecting balance and clarity.
+    ### 1. WHAT IS IT?
+    - Head pressure and dizziness often occur together and can be symptoms of various conditions, such as migraines, sinusitis, or inner ear disorders.
+    - Dizziness is a sensation of spinning or losing balance, while head pressure can feel like a tight band around the head.
     
-    ## 2. CAUSES & RISK FACTORS
-    - **Migraines**: Neurological headaches that can cause dizziness and sensitivity to light.
-    - **Sinusitis**: Inflammation of the sinuses leading to pressure and dizziness.
-    - **Ear Infections**: Affect the middle ear, causing fluid buildup and dizziness.
-    - **High Blood Pressure**: Sudden changes can lead to head pressure and dizziness.
-    - **Other Risk Factors**: Include dehydration, low blood sugar, and anxiety.
+    ### 2. CAUSES & RISK FACTORS
+    - **Migraines:** Neurological headaches that can cause dizziness and sensitivity to light.
+    - **Sinusitis:** Inflammation of the sinuses can lead to head pressure and dizziness.
+    - **Inner Ear Disorders:** Conditions like vestibular neuritis can cause dizziness.
+    - **High Blood Pressure:** Sudden changes in blood pressure can lead to dizziness and headaches.
+    - **Other Factors:** Anxiety, dehydration, and certain medications can also contribute.
     
-    ## 3. COMMON SYMPTOMS
+    ### 3. COMMON SYMPTOMS
     - Nausea
     - Fatigue
     - Fever
@@ -375,39 +385,41 @@
     - Sneezing
     - Panic or anxiety
     
-    ## 4. DIAGNOSIS & TESTS
-    - **Physical Exam**: Assessment of balance and neurological function.
-    - **Imaging Tests**: MRI or CT scans if stroke or serious conditions are suspected.
-    - **Hearing and Balance Tests**: To assess inner ear function.
+    ### 4. DIAGNOSIS & TESTS
+    - Doctors may perform physical exams, imaging tests like MRI or CT scans, and balance tests to diagnose the cause.
+    - Hearing tests and neurological exams may also be conducted.
     
-    ## 5. TREATMENT OPTIONS
-    - **Medications**: Pain relievers, antihistamines, and anti-anxiety medications.
-    - **Therapies**: Balance exercises and vestibular rehabilitation.
-    - **Lifestyle Changes**: Hydration, rest, and avoiding allergens.
+    ### 5. TREATMENT OPTIONS
+    - **Medications:** Pain relievers, antihistamines, or anti-anxiety medications.
+    - **Therapy:** Balance exercises or vestibular rehabilitation.
+    - **Lifestyle Changes:** Staying hydrated, managing stress, and avoiding allergens.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - **Otolaryngologist**: For ear, nose, and throat issues.
-    - **Neurologist**: For brain and nervous system conditions.
+    ### 6. WHICH DOCTOR TO SEE
+    - **Neurologist:** For migraines or neurological issues.
+    - **Otolaryngologist (ENT):** For sinus or ear-related problems.
     
-    ## 7. EMERGENCY WARNING SIGNS
+    ### 7. EMERGENCY WARNING SIGNS
     - Sudden, severe headache
     - Numbness on one side of the body
-    - Confusion or blurry vision
+    - Confusion or slurred speech
     - Loss of consciousness
+    - Vision changes
     
-    ## 8. COMPLICATIONS
-    - If untreated, conditions like high blood pressure or infections can lead to more severe health issues, including stroke.
+    ### 8. COMPLICATIONS
+    - If left untreated, these symptoms can lead to chronic pain, increased risk of falls, or severe health issues like stroke.
     
-    ## 9. PREVENTION TIPS
-    - Stay hydrated and maintain a balanced diet.
-    - Manage stress and avoid known allergens.
-    - Regular check-ups with your healthcare provider.
+    ### 9. PREVENTION TIPS
+    - Maintain a healthy lifestyle with regular exercise and a balanced diet.
+    - Stay hydrated and manage stress effectively.
+    - Avoid known triggers like allergens or certain foods.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - Recovery depends on the underlying cause; many cases improve with targeted treatment.
-    - Early diagnosis and treatment can prevent complications and improve outcomes. 
+    ### 10. PROGNOSIS & RECOVERY
+    - Recovery depends on the underlying cause; many conditions improve with targeted treatment.
+    - Chronic conditions like migraines may require ongoing management.
     
-    Remember, if you experience persistent or severe symptoms, it's important to seek medical attention promptly. Your health is important, and early intervention can make a significant difference.
+    In summary, head pressure and dizziness can be symptoms of various conditions, some of which require medical attention. It's important to monitor your symptoms and seek help if they worsen or are accompanied by other concerning signs. Remember, early diagnosis and treatment can significantly improve your quality of life.
+    
+    If you're experiencing these symptoms, don't hesitate to consult a healthcare professional. They can provide a proper diagnosis and help you find relief. Stay positive and proactive in managing your health, and reach out to your doctor for guidance and support.
 
 --------------------------------------------------------------------------------
   Test # 8 [symptom     ] Vague symptoms
@@ -415,54 +427,49 @@
   User Input: "feeling tired all the time and losing weight"
   Search Query: "fatigue weight loss causes symptoms treatment doctors"
   Search Results: 5
-  Summary (2357 chars):
-    # Health Guide: Unexplained Weight Loss
+  Summary (2980 chars):
+    Unintentional weight loss is when you lose weight without trying or making any changes to your diet or exercise routine. While it might seem like a positive change, it can be a sign of an underlying health issue that needs attention.
     
-    ## 1. WHAT IS IT?
-    - Unexplained weight loss is when you lose weight without trying through diet or exercise.
-    - It can be a sign of stress or a serious underlying health condition.
+    ### 1. WHAT IS IT?
+    - Unintentional weight loss refers to losing weight without a conscious effort to do so. It can be a symptom of various health conditions, ranging from stress to serious illnesses like cancer.
     
-    ## 2. CAUSES & RISK FACTORS
-    - **Medical Conditions**: Cancer, diabetes, hyperthyroidism, adrenal insufficiency, digestive disorders like celiac disease and IBD.
-    - **Mental Health**: Depression, anxiety, eating disorders.
-    - **Lifestyle Factors**: Stressful life events, poor nutrition, substance use.
-    - **Medications**: Some medications can lead to weight loss as a side effect.
-    - **Age**: More common in people over 65.
+    ### 2. CAUSES & RISK FACTORS
+    - **Medical Conditions:** Cancer, thyroid disorders, diabetes, adrenal insufficiency, and digestive issues like celiac disease or inflammatory bowel disease.
+    - **Mental Health:** Depression, anxiety, and eating disorders can lead to weight loss.
+    - **Lifestyle Factors:** Stressful life events, substance use, and certain medications.
+    - **Age:** More common in people over 65 due to various health conditions.
     
-    ## 3. COMMON SYMPTOMS
+    ### 3. COMMON SYMPTOMS
     - Loss of 5% or more of body weight within 6-12 months.
-    - Fatigue, changes in appetite, pain, or other symptoms like night sweats, persistent cough, or stomach aches.
+    - Looser fitting clothes.
+    - Accompanying symptoms like fatigue, pain, or appetite changes.
     
-    ## 4. DIAGNOSIS & TESTS
-    - Initial evaluation includes blood work and screenings for metabolic conditions and nutritional deficiencies.
-    - Depending on results, further imaging or specialized tests may be recommended.
+    ### 4. DIAGNOSIS & TESTS
+    - Doctors may start with blood tests and screenings for metabolic conditions, nutritional deficiencies, or chronic diseases.
+    - Depending on initial findings, further imaging or specialized tests may be recommended.
     
-    ## 5. TREATMENT OPTIONS
-    - Treatment depends on the underlying cause.
-    - May include hormone replacement therapy, dietary changes, or stress management.
-    - Medications to address specific conditions like hyperthyroidism or diabetes.
+    ### 5. TREATMENT OPTIONS
+    - Treatment depends on the underlying cause. It may include hormone replacement therapy, dietary changes, or stress management.
+    - Addressing any identified medical conditions, such as providing medication for thyroid issues or diabetes.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - Start with a primary care doctor.
-    - You may be referred to specialists such as endocrinologists, oncologists, or gastroenterologists depending on the suspected cause.
+    ### 6. WHICH DOCTOR TO SEE
+    - Start with a primary care physician who may refer you to specialists like endocrinologists or gastroenterologists based on the suspected cause.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Seek immediate medical help if weight loss is accompanied by severe symptoms like persistent pain, severe fatigue, or significant changes in mood or appetite.
+    ### 7. EMERGENCY WARNING SIGNS
+    - Seek immediate medical help if weight loss is rapid and accompanied by severe symptoms like night sweats, persistent cough, or severe fatigue.
     
-    ## 8. COMPLICATIONS
-    - If left untreated, unexplained weight loss can lead to malnutrition, weakened immune function, and worsening of underlying conditions.
+    ### 8. COMPLICATIONS
+    - If left untreated, unintentional weight loss can lead to malnutrition, weakened immune function, and further health deterioration.
     
-    ## 9. PREVENTION TIPS
-    - Maintain a balanced diet and regular exercise.
-    - Manage stress through relaxation techniques.
-    - Regular medical check-ups to monitor health changes.
+    ### 9. PREVENTION TIPS
+    - Maintain a balanced diet and regular health check-ups.
+    - Manage stress through relaxation techniques and regular exercise.
+    - Monitor any changes in weight and consult a doctor if you notice unexplained weight loss.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - Prognosis depends on the underlying cause.
-    - Early diagnosis and treatment can improve outcomes.
-    - Recovery time varies; some conditions may require long-term management.
+    ### 10. PROGNOSIS & RECOVERY
+    - The outlook depends on the underlying cause. Early detection and treatment of the cause can lead to a better prognosis and recovery.
     
-    Remember, it's important to consult with a healthcare provider if you experience unexplained weight loss to determine the cause and appropriate treatment.
+    In summary, unintentional weight loss can be an indicator of various health issues, some of which may require immediate attention. It is important to monitor your health and consult with healthcare professionals if you experience significant weight loss without trying. Remember, your health is important, and taking proactive steps can lead to better outcomes. If you're experiencing unexplained weight loss, reach out to your healthcare provider to explore the possible causes and appropriate treatments.
 
 --------------------------------------------------------------------------------
   Test # 9 [symptom     ] Symptom from user's earlier test
@@ -470,123 +477,129 @@
   User Input: "legs are numb and can't stand properly"
   Search Query: "legs numbness causes symptoms treatment doctors"
   Search Results: 5
-  Summary (2686 chars):
-    # Health Guide: Numbness in Legs and Feet
+  Summary (3407 chars):
+    Numbness in the legs and feet can be a common experience, often described as a "pins and needles" sensation. While it can be temporary and harmless, persistent numbness might indicate an underlying health issue that requires attention. Understanding the causes, symptoms, and treatment options can help manage this condition effectively.
     
-    ## 1. WHAT IS IT?
-    - Numbness in the legs and feet refers to a loss of sensation or tingling in these areas. It can affect the entire leg, below the knee, or specific areas of the foot.
-    - It is often described as a "pins and needles" sensation and can be temporary or chronic.
+    ### 1. WHAT IS IT?
+    - Numbness in the legs and feet refers to a loss of sensation or tingling that can affect the entire leg, below the knee, or specific areas of the foot.
+    - It is often caused by pressure on nerves or reduced blood flow, but can also be a sign of more serious medical conditions.
     
-    ## 2. CAUSES & RISK FACTORS
-    - **Posture**: Sitting or lying in a way that compresses nerves or reduces blood flow.
-    - **Medical Conditions**: Diabetes, multiple sclerosis, fibromyalgia, peripheral artery disease (PAD), and sciatic nerve damage.
-    - **Injuries**: Damage to the spine, hips, or legs.
-    - **Lifestyle Factors**: Excessive alcohol use, vitamin deficiencies, and smoking.
+    ### 2. CAUSES & RISK FACTORS
+    - **Posture**: Sitting or standing in one position for too long can compress nerves.
+    - **Injury**: Damage to the spine, hips, or legs can affect nerve function.
+    - **Medical Conditions**: Diabetes, multiple sclerosis, peripheral artery disease, and fibromyalgia can cause chronic numbness.
+    - **Lifestyle Factors**: Excessive alcohol consumption and poor diet can contribute to nerve damage.
     
-    ## 3. COMMON SYMPTOMS
-    - Tingling, burning, or itching sensation.
-    - Muscle twitching or weakness.
-    - A crawling feeling under the skin.
+    ### 3. COMMON SYMPTOMS
+    - Tingling or "pins and needles"
+    - Burning or itching sensations
+    - Muscle twitching
+    - Weakness or heaviness in the legs
     
-    ## 4. DIAGNOSIS & TESTS
-    - Physical examination and medical history review.
-    - Blood tests, imaging tests (MRI, ultrasound), and nerve function tests (electromyography).
-    - Specific tests for conditions like Raynaud's phenomenon or central nervous system disorders.
+    ### 4. DIAGNOSIS & TESTS
+    - **Physical Examination**: A doctor will assess symptoms and medical history.
+    - **Imaging Tests**: MRI or CT scans to check for nerve or spinal issues.
+    - **Blood Tests**: To identify underlying conditions like diabetes.
+    - **Specialized Tests**: Electromyography to measure nerve activity.
     
-    ## 5. TREATMENT OPTIONS
-    - **Medications**: Antidepressants, corticosteroids, gabapentin, and pregabalin for nerve-related issues.
-    - **Therapies**: Physical therapy, massage, acupuncture, and hydrotherapy.
-    - **Home Remedies**: Rest, ice or heat application, exercise, and Epsom salt baths.
+    ### 5. TREATMENT OPTIONS
+    - **Medications**: Antidepressants, corticosteroids, and nerve pain medications like gabapentin.
+    - **Physical Therapy**: Exercises to improve strength and flexibility.
+    - **Home Remedies**: Rest, massage, hot/cold therapy, and supportive devices.
+    - **Lifestyle Changes**: Healthy diet, regular exercise, and reducing alcohol intake.
     
-    ## 6. WHICH DOCTOR TO SEE
+    ### 6. WHICH DOCTOR TO SEE
     - **Neurologist**: For nerve-related issues.
-    - **Vascular Specialist**: For circulation-related problems like PAD.
-    - **Orthopedic Specialist**: For structural issues like herniated discs or sciatica.
+    - **Vascular Specialist**: If vascular diseases like PAD are suspected.
+    - **Orthopedic Specialist**: For injuries or structural issues.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Sudden weakness or paralysis.
-    - Confusion, difficulty talking, or severe headache.
-    - Loss of bladder or bowel control.
-    - Seek immediate medical help if these symptoms occur.
+    ### 7. EMERGENCY WARNING SIGNS
+    - Sudden weakness or paralysis
+    - Severe headache or confusion
+    - Difficulty speaking or loss of bladder control
+    - Seek immediate medical help if these occur.
     
-    ## 8. COMPLICATIONS
-    - Chronic numbness can lead to falls, unnoticed injuries, or infections.
-    - Underlying conditions like PAD or diabetes can worsen without treatment.
+    ### 8. COMPLICATIONS
+    - Falls or injuries due to lack of sensation
+    - Infections or sores that go unnoticed
+    - Progression of underlying conditions if untreated
     
-    ## 9. PREVENTION TIPS
-    - Maintain a healthy diet and regular exercise to prevent diabetes and PAD.
-    - Avoid excessive alcohol consumption and smoking.
-    - Practice good posture and take breaks to move around if sitting for long periods.
+    ### 9. PREVENTION TIPS
+    - Maintain a balanced diet and healthy weight.
+    - Exercise regularly to improve circulation.
+    - Avoid prolonged sitting or standing in one position.
+    - Limit alcohol intake and quit smoking.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - The outlook depends on the underlying cause. Temporary numbness often resolves on its own.
-    - Chronic conditions may require ongoing management but can be improved with treatment and lifestyle changes. Recovery time varies based on the severity and cause of the numbness.
+    ### 10. PROGNOSIS & RECOVERY
+    - Recovery depends on the underlying cause and timely treatment.
+    - Many cases of temporary numbness resolve with simple lifestyle changes.
+    - Chronic conditions may require ongoing management but can often be controlled with proper care.
     
-    Remember, if you experience persistent or unexplained numbness, it's important to consult a healthcare professional for a proper diagnosis and treatment plan.
+    In summary, while numbness in the legs and feet is often temporary and harmless, persistent symptoms should not be ignored as they may indicate a more serious condition. Early diagnosis and treatment can prevent complications and improve quality of life. If you experience unexplained or persistent numbness, consult a healthcare professional to determine the best course of action. Remember, taking proactive steps in managing your health can lead to better outcomes and a more comfortable life.
 
 --------------------------------------------------------------------------------
   Test #10 [symptom     ] Specific symptom - possible appendicitis
   Status: PASS
   User Input: "sharp pain in lower right abdomen"
-  Search Query: "sharp pain in lower right abdomen causes diagnosis treatment"
+  Search Query: "sharp pain in lower right abdomen causes symptoms treatment"
   Search Results: 5
-  Summary (2673 chars):
-    # Health Guide: Lower Right Abdominal Pain
+  Summary (3340 chars):
+    Lower right abdominal pain can be a concerning symptom, as it may indicate a range of health conditions, from mild to serious. Understanding the potential causes and knowing when to seek medical help is important for your health and peace of mind. This guide will help you understand more about lower right abdominal pain and what steps to take if you experience it.
     
-    ## 1. WHAT IS IT?
-    - Lower right abdominal pain can be a symptom of various conditions, ranging from mild to serious. It is important to identify the cause to determine the appropriate treatment.
+    ### 1. WHAT IS IT?
+    - Lower right abdominal pain refers to discomfort or pain located in the lower right quadrant of the abdomen. This area houses several vital organs, including the appendix, part of the intestines, and, in women, part of the reproductive system.
     
-    ## 2. CAUSES & RISK FACTORS
-    - **Appendicitis**: Inflammation of the appendix, common in younger individuals.
-    - **Ovarian Conditions**: Cysts or ectopic pregnancy in women.
-    - **Gastrointestinal Issues**: Conditions like IBS, Crohn's disease, or diverticulitis.
-    - **Other Causes**: Constipation, mesenteric adenitis, kidney stones, or hernias.
+    ### 2. CAUSES & RISK FACTORS
+    - **Appendicitis**: Inflammation of the appendix, a common cause of severe pain in this area.
+    - **Ovarian Conditions**: Such as cysts or ectopic pregnancy in women.
+    - **Gastrointestinal Issues**: Including irritable bowel syndrome (IBS) and diverticulitis.
+    - **Infections or Tumors**: In the intestines or other nearby organs.
     
-    ## 3. COMMON SYMPTOMS
-    - Sharp or cramping pain in the lower right abdomen.
+    ### 3. COMMON SYMPTOMS
+    - Sharp or dull pain in the lower right abdomen.
     - Nausea and vomiting.
-    - Fever and loss of appetite.
-    - Pain that worsens with movement or touch.
+    - Loss of appetite.
+    - Fever.
+    - Pain that worsens with movement.
     
-    ## 4. DIAGNOSIS & TESTS
-    - Physical examination by a healthcare provider.
-    - Imaging tests such as ultrasound, CT scan, or MRI.
-    - Blood tests to check for infections or other issues.
+    ### 4. DIAGNOSIS & TESTS
+    - **Physical Examination**: Doctors may press on the abdomen to check for tenderness.
+    - **Imaging Tests**: Such as ultrasound, CT scan, or MRI to view internal organs.
+    - **Blood Tests**: To check for signs of infection or inflammation.
     
-    ## 5. TREATMENT OPTIONS
-    - **Appendicitis**: Surgical removal of the appendix (appendectomy).
-    - **Ovarian Cysts**: May resolve on their own or require surgery if large.
-    - **IBS & Digestive Issues**: Dietary changes, stress management, medications.
-    - **Emergency Conditions**: Immediate medical intervention for ectopic pregnancy or appendicitis.
+    ### 5. TREATMENT OPTIONS
+    - **Appendicitis**: Typically requires surgical removal of the appendix (appendectomy).
+    - **Ovarian Cysts**: May resolve on their own or require medication or surgery.
+    - **IBS and Digestive Issues**: Often managed with dietary changes, stress management, and medication.
     
-    ## 6. WHICH DOCTOR TO SEE
+    ### 6. WHICH DOCTOR TO SEE
     - **Gastroenterologist**: For digestive issues.
-    - **Gynecologist**: For reproductive organ-related pain in women.
-    - **Emergency Medicine Specialist**: For acute or severe cases requiring urgent care.
+    - **Gynecologist**: For female reproductive health concerns.
+    - **Emergency Room**: If experiencing severe or sudden pain.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Severe, sudden pain that worsens.
-    - Accompanied by fever, vomiting, or inability to pass stool or gas.
-    - Blood in stool or urine, or vaginal bleeding.
-    - Fainting, sweating, or rapid heartbeat.
+    ### 7. EMERGENCY WARNING SIGNS
+    - Severe, sudden pain that doesn't go away.
+    - High fever.
+    - Vomiting blood or having bloody stools.
+    - Inability to pass gas or have a bowel movement.
     
-    ## 8. COMPLICATIONS
-    - Untreated appendicitis can lead to a burst appendix and peritonitis, a life-threatening infection.
-    - Ectopic pregnancy can cause internal bleeding.
-    - Persistent digestive issues can lead to chronic discomfort and complications.
+    ### 8. COMPLICATIONS
+    - **Appendicitis**: If untreated, can lead to a burst appendix and life-threatening infection.
+    - **Ectopic Pregnancy**: Can cause internal bleeding if not treated promptly.
     
-    ## 9. PREVENTION TIPS
-    - Maintain a balanced diet and stay hydrated.
-    - Regular exercise to promote digestive health.
+    ### 9. PREVENTION TIPS
+    - Maintain a healthy diet and stay hydrated.
+    - Regular medical check-ups to monitor existing health conditions.
     - Manage stress effectively.
-    - Regular medical check-ups to monitor existing conditions.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - **Appendicitis**: Recovery typically involves a few weeks post-surgery.
-    - **Ovarian Cysts**: Often resolve without intervention; surgical recovery varies.
-    - **IBS & Digestive Issues**: Long-term management with lifestyle changes and medication can improve quality of life.
+    ### 10. PROGNOSIS & RECOVERY
+    - **Appendicitis**: Recovery from surgery typically takes a few weeks.
+    - **Ovarian Cysts**: Recovery depends on treatment; many resolve without intervention.
+    - **IBS**: Chronic condition that can be managed with lifestyle changes.
     
-    If you experience persistent or severe lower right abdominal pain, it is important to seek medical attention promptly to determine the cause and receive appropriate treatment.
+    In summary, lower right abdominal pain can be caused by various conditions, some of which require immediate medical attention. It is important to monitor your symptoms and seek medical advice if you experience severe or persistent pain. Remember, early diagnosis and treatment can prevent complications and lead to better health outcomes.
+    
+    If you are experiencing any of the symptoms described, please consult a healthcare professional. They can provide a thorough evaluation and recommend the best course of action for your specific situation. Stay informed, take care of your health, and don't hesitate to seek help when needed.
 
 --------------------------------------------------------------------------------
   Test #11 [misspelling ] Misspelled condition
@@ -594,65 +607,62 @@
   User Input: "diabeties"
   Search Query: "diabetes causes symptoms treatment doctors"
   Search Results: 5
-  Summary (2913 chars):
-    # Health Guide: Understanding and Managing Diabetes
+  Summary (3478 chars):
+    **Understanding Diabetes: A Simple Guide**
     
-    ## 1. WHAT IS IT?
-    - Diabetes is a chronic condition where your blood sugar (glucose) levels are too high.
-    - It occurs when the pancreas doesn’t produce enough insulin or the body doesn’t use insulin properly.
-    - There are several types, with Type 2 diabetes being the most common.
+    Diabetes is a common health condition that affects how your body processes sugar, which is a crucial source of energy. When you have diabetes, your body either doesn't make enough insulin or can't use it as well as it should. Insulin is a hormone that helps sugar from food get into your cells to be used for energy. Without enough insulin, sugar stays in your blood, which can lead to serious health problems over time.
     
-    ## 2. CAUSES & RISK FACTORS
-    - **Causes**: High blood sugar due to insufficient insulin production or insulin resistance.
-    - **Risk Factors**: Family history, being over 45, overweight, physically inactive, having high blood pressure or cholesterol, and certain ethnic backgrounds.
+    **1. WHAT IS IT?**
+    - Diabetes is a condition where your blood sugar levels are too high.
+    - It occurs when the pancreas doesn't produce enough insulin or when the body can't use insulin effectively.
+    - There are several types of diabetes, with Type 2 being the most common.
     
-    ## 3. COMMON SYMPTOMS
+    **2. CAUSES & RISK FACTORS**
+    - Causes include genetic factors and lifestyle choices.
+    - Risk factors for Type 2 diabetes include being overweight, having a family history of diabetes, and being over 40 years old.
+    - Certain ethnic groups, including Black, Hispanic, American Indian, and Asian American people, are at higher risk.
+    
+    **3. COMMON SYMPTOMS**
     - Increased thirst and frequent urination.
-    - Fatigue and feeling hungrier than usual.
-    - Slow healing of cuts or sores.
-    - Tingling or numbness in hands or feet.
-    - Blurred vision and dry skin.
     - Unexplained weight loss.
+    - Fatigue and feeling weak.
+    - Blurred vision and slow-healing sores.
     
-    ## 4. DIAGNOSIS & TESTS
-    - **Fasting Plasma Glucose Test**: Measures blood sugar after an overnight fast.
-    - **Random Plasma Glucose Test**: Can be done at any time.
-    - **A1C Test**: Reflects average blood sugar levels over the past 2-3 months.
+    **4. DIAGNOSIS & TESTS**
+    - Diabetes is diagnosed through blood tests that measure glucose levels, such as the A1C test, fasting blood glucose test, and oral glucose tolerance test.
+    - Regular check-ups and screenings are important, especially if you have risk factors.
     
-    ## 5. TREATMENT OPTIONS
-    - **Lifestyle Changes**: Healthy eating, regular exercise, and weight management.
-    - **Medications**: Includes oral medications like Metformin, and injectable medications like insulin.
-    - **Monitoring**: Regular blood sugar checks using glucose meters or continuous glucose monitors.
+    **5. TREATMENT OPTIONS**
+    - Management includes a combination of lifestyle changes, medications, and sometimes insulin therapy.
+    - Healthy eating, regular exercise, and maintaining a healthy weight are crucial.
+    - Medications may include metformin and other drugs that help control blood sugar levels.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - **Endocrinologist**: A specialist in hormone-related conditions, including diabetes.
-    - **Primary Care Provider (PCP)**: For routine management and check-ups.
-    - **Dietitian**: For nutritional guidance.
-    - **Podiatrist**: For foot care, as diabetes can affect foot health.
-    - **Ophthalmologist**: For eye health, as diabetes can affect vision.
+    **6. WHICH DOCTOR TO SEE**
+    - An endocrinologist specializes in treating diabetes.
+    - Your care team may also include a dietitian, diabetes educator, and other specialists like a podiatrist and ophthalmologist.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - High blood sugar (hyperglycemia) symptoms: Frequent urination, extreme thirst, blurred vision.
-    - Low blood sugar (hypoglycemia) symptoms: Sweating, shakiness, confusion.
-    - Seek immediate help if you experience severe symptoms like confusion, seizures, or loss of consciousness.
+    **7. EMERGENCY WARNING SIGNS**
+    - Seek immediate help if you experience symptoms of diabetic ketoacidosis, such as nausea, vomiting, and abdominal pain.
+    - High blood sugar levels can lead to serious complications if not treated promptly.
     
-    ## 8. COMPLICATIONS
-    - Heart disease, nerve damage, kidney damage, and eye damage.
-    - Increased risk of infections and foot problems.
-    - Mental health issues like depression.
+    **8. COMPLICATIONS**
+    - Long-term complications include heart disease, nerve damage, kidney damage, and eye problems.
+    - Diabetes can also increase the risk of infections and other health issues.
     
-    ## 9. PREVENTION TIPS
-    - Maintain a healthy weight and engage in regular physical activity.
-    - Eat a balanced diet rich in fiber and low in fats and sugars.
+    **9. PREVENTION TIPS**
+    - Maintain a healthy diet and regular physical activity.
+    - Monitor your blood sugar levels regularly.
     - Avoid smoking and limit alcohol intake.
-    - Regularly monitor blood sugar levels if at risk.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - Diabetes is a lifelong condition but can be managed effectively with proper care.
-    - Regular monitoring and lifestyle adjustments can prevent complications.
-    - With consistent management, individuals with diabetes can lead healthy lives. 
+    **10. PROGNOSIS & RECOVERY**
+    - With proper management, individuals with diabetes can lead healthy lives.
+    - Consistent monitoring and lifestyle adjustments are key to managing the condition and preventing complications.
     
-    Remember, managing diabetes involves a team effort. Don't hesitate to reach out to healthcare providers, family, and friends for support.
+    **Summary of Key Takeaways:**
+    Diabetes is a manageable condition with the right approach. Understanding your risk factors, recognizing symptoms early, and adhering to a treatment plan can help you maintain a healthy life. Regular check-ups and a supportive healthcare team are essential in managing diabetes effectively.
+    
+    **Encouragement and Next Steps:**
+    Remember, you are not alone in this journey. Reach out to your healthcare provider to discuss any concerns and create a personalized plan that suits your lifestyle. Stay informed, stay active, and take control of your health. You have the power to manage diabetes and live a fulfilling life.
 
 --------------------------------------------------------------------------------
   Test #12 [misspelling ] Mixed case condition
@@ -660,50 +670,58 @@
   User Input: "hyPERTension"
   Search Query: "hypertension causes symptoms treatment doctors"
   Search Results: 5
-  Summary (2594 chars):
-    # Health Guide: Hypertension (High Blood Pressure)
+  Summary (2919 chars):
+    High blood pressure, also known as hypertension, is a common condition where the force of the blood against the artery walls is consistently too high. This can lead to serious health issues like heart disease and stroke if not managed properly. Understanding and managing high blood pressure is crucial for maintaining overall health.
     
-    ## 1. WHAT IS IT?
-    - Hypertension, or high blood pressure, is a condition where the force of blood against the artery walls is consistently too high.
-    - It can lead to serious health problems like heart disease, stroke, and kidney disease if not managed properly.
+    ### WHAT IS IT?
+    - Hypertension is when your blood pressure readings are consistently 130/80 mm Hg or higher.
+    - It is often called a "silent killer" because it usually has no symptoms.
     
-    ## 2. CAUSES & RISK FACTORS
-    - **Causes:** Often no identifiable cause (primary hypertension), but can be due to underlying conditions like kidney disease (secondary hypertension).
-    - **Risk Factors:** Age, family history, obesity, lack of physical activity, high salt diet, excessive alcohol consumption, stress, and smoking.
+    ### CAUSES & RISK FACTORS
+    - **Primary Hypertension:** Develops over time with no identifiable cause.
+    - **Secondary Hypertension:** Caused by underlying conditions like kidney disease or certain medications.
+    - **Risk Factors:** Age, race, family history, obesity, lack of physical activity, tobacco use, high salt diet, and excessive alcohol consumption.
     
-    ## 3. COMMON SYMPTOMS
-    - Often called a "silent killer" because it usually has no symptoms.
-    - Severe cases may cause headaches, dizziness, nosebleeds, chest pain, and shortness of breath.
+    ### COMMON SYMPTOMS
+    - Often, there are no symptoms. However, severe hypertension can cause:
+      - Headaches
+      - Shortness of breath
+      - Nosebleeds
+      - Severe cases may include chest pain, dizziness, or vision changes.
     
-    ## 4. DIAGNOSIS & TESTS
-    - Blood pressure is measured using a cuff. A reading of 130/80 mm Hg or higher is considered hypertension.
-    - Diagnosis often requires multiple readings over time.
-    - Additional tests may include blood and urine tests, electrocardiogram (EKG), and echocardiogram.
+    ### DIAGNOSIS & TESTS
+    - Blood pressure is measured using a cuff around the arm.
+    - Diagnosis requires two or more readings on separate occasions.
+    - Additional tests may include blood tests, urine tests, and heart monitoring.
     
-    ## 5. TREATMENT OPTIONS
-    - **Medications:** Diuretics, beta-blockers, ACE inhibitors, ARBs, calcium channel blockers.
-    - **Lifestyle Changes:** Healthy diet, regular exercise, weight management, reduced salt intake, and stress management.
-    - **Alternative Treatments:** Supplements like omega-3 fatty acids and practices like mindfulness may help.
+    ### TREATMENT OPTIONS
+    - **Lifestyle Changes:** Healthy diet, regular exercise, reducing salt intake, quitting smoking, and limiting alcohol.
+    - **Medications:** Diuretics, beta-blockers, ACE inhibitors, calcium channel blockers, and others as prescribed by a healthcare provider.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - A cardiologist specializes in heart health and can provide comprehensive care for hypertension.
+    ### WHICH DOCTOR TO SEE
+    - Consult a primary care physician or a cardiologist for management and treatment.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Seek immediate medical help if blood pressure is 180/120 mm Hg or higher, especially with symptoms like severe headache, chest pain, or shortness of breath.
+    ### EMERGENCY WARNING SIGNS
+    - Blood pressure readings of 180/120 mm Hg or higher with symptoms like chest pain or difficulty breathing require immediate medical attention.
     
-    ## 8. COMPLICATIONS
-    - Untreated hypertension can lead to heart attack, stroke, heart failure, kidney damage, vision loss, and cognitive decline.
+    ### COMPLICATIONS
+    - If untreated, hypertension can lead to:
+      - Heart attack or stroke
+      - Heart failure
+      - Kidney damage
+      - Vision loss
+      - Cognitive issues
     
-    ## 9. PREVENTION TIPS
-    - Maintain a healthy weight, exercise regularly, eat a balanced diet low in salt, avoid smoking, and limit alcohol intake.
-    - Regular blood pressure monitoring and managing stress are also crucial.
+    ### PREVENTION TIPS
+    - Maintain a healthy weight, eat a balanced diet rich in fruits and vegetables, exercise regularly, and avoid tobacco and excessive alcohol.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - With proper management, individuals can lead a healthy life.
+    ### PROGNOSIS & RECOVERY
+    - With proper management, individuals can control their blood pressure and reduce the risk of complications.
     - Lifelong management may be necessary, especially for primary hypertension.
-    - Regular follow-ups with a healthcare provider are important to monitor and adjust treatment as needed.
     
-    Remember, managing hypertension is a team effort between you and your healthcare provider. Regular check-ups and adherence to treatment plans are key to maintaining good health.
+    In summary, high blood pressure is a manageable condition with the right lifestyle changes and medical treatment. Regular check-ups and monitoring are essential to keep it under control. Remember, taking proactive steps today can significantly improve your heart health and overall well-being.
+    
+    If you suspect you have high blood pressure or have been diagnosed with it, consult your healthcare provider for a personalized treatment plan. Stay informed, stay healthy, and take charge of your heart health!
 
 --------------------------------------------------------------------------------
   Test #13 [misspelling ] Two-word misspelling
@@ -711,129 +729,112 @@
   User Input: "head ache"
   Search Query: "headache causes symptoms treatment doctors"
   Search Results: 5
-  Summary (2999 chars):
-    # Health Guide: Understanding and Managing Headaches
+  Summary (3183 chars):
+    Headaches are a common condition that most people experience at some point in their lives. They can range from mild discomfort to severe pain and can affect daily activities. Understanding the different types of headaches, their causes, and how to manage them can help you find relief and improve your quality of life.
     
-    ## 1. WHAT IS IT?
-    - A headache is a common condition characterized by pain in the head or face. It can vary in intensity, location, and frequency.
-    - There are two main types: primary headaches, which are not caused by another medical condition, and secondary headaches, which are symptoms of another health issue.
+    ### 1. WHAT IS IT?
+    - A headache is a pain or discomfort in the head or face, often described as throbbing, constant, sharp, or dull.
+    - They can be classified into two main categories: primary headaches (not caused by another medical condition) and secondary headaches (symptoms of another condition).
     
-    ## 2. CAUSES & RISK FACTORS
-    - **Primary Headaches:** Caused by overactivity of pain-sensitive structures in the head. Factors include stress, poor posture, and certain foods.
-    - **Secondary Headaches:** Result from other conditions like infections, high blood pressure, or brain injuries.
-    - Risk factors include genetics, lifestyle choices (e.g., alcohol consumption, sleep patterns), and environmental factors.
+    ### 2. CAUSES & RISK FACTORS
+    - **Primary Headaches**: Caused by overactivity of pain-sensitive structures in the head. Common triggers include stress, lack of sleep, hunger, and certain foods or drinks.
+    - **Secondary Headaches**: Result from an underlying condition such as sinus infections, high blood pressure, or brain tumors.
+    - Risk factors include genetics, lifestyle factors (e.g., alcohol, nicotine, poor posture), and environmental factors.
     
-    ## 3. COMMON SYMPTOMS
-    - Pain in the head or face, which can be throbbing, constant, sharp, or dull.
-    - Sensitivity to light, sound, or smells.
-    - Nausea or vomiting, especially with migraines.
-    - Visual disturbances or aura in some migraine cases.
+    ### 3. COMMON SYMPTOMS
+    - Pain in the head or face, which can be throbbing, constant, or sharp.
+    - Sensitivity to light or sound.
+    - Nausea or vomiting (especially with migraines).
+    - Pressure or tightness around the head.
     
-    ## 4. DIAGNOSIS & TESTS
-    - Diagnosis involves a review of medical history, symptoms, and a physical examination.
-    - Neurological exams and imaging tests like MRI or CT scans may be used to rule out other conditions.
-    - Keeping a headache journal can help identify patterns and triggers.
+    ### 4. DIAGNOSIS & TESTS
+    - Doctors diagnose headaches based on medical history, symptoms, and physical and neurological exams.
+    - Imaging tests like CT scans or MRIs may be used to rule out other conditions.
     
-    ## 5. TREATMENT OPTIONS
-    - **Medications:** Over-the-counter pain relievers for mild headaches; prescription drugs like triptans for migraines.
-    - **Lifestyle Changes:** Stress management, regular sleep, and avoiding known triggers.
-    - **Therapies:** Biofeedback, cognitive-behavioral therapy, and physical therapy.
-    - **Procedures:** Nerve block procedures for chronic headaches.
+    ### 5. TREATMENT OPTIONS
+    - **Medications**: Over-the-counter pain relievers, prescription medications like triptans for migraines, and preventive drugs for frequent headaches.
+    - **Lifestyle Changes**: Stress management, regular sleep, and a healthy diet.
+    - **Therapies**: Biofeedback, cognitive-behavioral therapy, and physical therapy.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - Neurologists, especially those trained in headache medicine, are the primary specialists for headache management.
-    - Other specialists may include otolaryngologists, endocrinologists, and pain medicine doctors.
+    ### 6. WHICH DOCTOR TO SEE
+    - A neurologist, especially one specialized in headache medicine, can help diagnose and treat headaches.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Seek immediate medical help if you experience a sudden, severe headache, especially with symptoms like confusion, weakness, double vision, or loss of consciousness.
-    - Headaches following a head injury or accompanied by fever, nausea, or vomiting not related to another illness also require urgent care.
+    ### 7. EMERGENCY WARNING SIGNS
+    - Seek immediate medical help if you experience a sudden, severe headache, especially if accompanied by a stiff neck, fever, confusion, weakness, or vision changes.
     
-    ## 8. COMPLICATIONS
-    - Chronic headaches can lead to medication overuse headaches if pain relievers are used too frequently.
-    - Untreated headaches can impact daily activities and quality of life.
+    ### 8. COMPLICATIONS
+    - Chronic headaches can lead to medication overuse headaches and impact quality of life.
+    - Untreated secondary headaches can lead to serious complications depending on the underlying condition.
     
-    ## 9. PREVENTION TIPS
-    - Identify and avoid headache triggers such as certain foods, stress, and irregular sleep.
-    - Maintain a healthy lifestyle with regular exercise, a balanced diet, and adequate hydration.
-    - Consider relaxation techniques like meditation and yoga.
+    ### 9. PREVENTION TIPS
+    - Identify and avoid headache triggers.
+    - Maintain a regular sleep schedule and a healthy diet.
+    - Manage stress through relaxation techniques and exercise.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - Most headaches are not serious and can be managed with appropriate treatment and lifestyle changes.
-    - The prognosis depends on the type and cause of the headache, with many individuals experiencing significant relief with proper management.
+    ### 10. PROGNOSIS & RECOVERY
+    - Most headaches can be managed effectively with proper treatment and lifestyle changes.
+    - Recovery time varies; some headaches resolve quickly, while others may require ongoing management.
+    
+    In summary, headaches are a common but manageable condition. Understanding the type of headache you have and its triggers can help you find effective treatments and prevent future episodes. If headaches persist or worsen, consult a healthcare provider for a comprehensive evaluation and personalized treatment plan. Remember, you are not alone, and help is available to improve your quality of life.
 
 --------------------------------------------------------------------------------
   Test #14 [misspelling ] Short exact condition
   Status: PASS
   User Input: "cancer"
-  Search Query: "cancer causes symptoms treatment doctors"
+  Search Query: "cancer types causes symptoms treatment doctors"
   Search Results: 5
-  Summary (3471 chars):
-    # Health Guide: Understanding Cancer
+  Summary (3210 chars):
+    Cancer is a group of diseases characterized by the uncontrolled division of abnormal cells in the body. These cells can invade nearby tissues and spread to other parts of the body, a process known as metastasis. Cancer can affect any part of the body and is one of the leading causes of death worldwide.
     
-    ## 1. WHAT IS IT?
-    - Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells in the body.
-    - It can affect any part of the body and is one of the leading causes of death worldwide.
-    - Cancer can form tumors, which are lumps of tissue, and may invade nearby tissues or spread to other parts of the body (metastasis).
+    ### WHAT IS IT?
+    - Cancer occurs when cells in the body begin to grow uncontrollably.
+    - These cells can form masses called tumors, which may be benign (non-cancerous) or malignant (cancerous).
+    - Malignant tumors can invade nearby tissues and spread to other parts of the body.
     
-    ## 2. CAUSES & RISK FACTORS
-    - **Genetic Mutations:** Changes in DNA within cells can lead to cancer.
-    - **Inherited Genes:** Some cancers are linked to genetic mutations inherited from parents.
-    - **Lifestyle Factors:** Smoking, excessive alcohol consumption, poor diet, and lack of exercise can increase risk.
-    - **Environmental Exposure:** Chemicals, radiation, and certain infections (e.g., HPV) can contribute to cancer risk.
-    - **Age:** Most cancers are diagnosed in people aged 65 or older, but they can occur at any age.
+    ### CAUSES & RISK FACTORS
+    - Genetic mutations are the primary cause of cancer, which can be inherited or acquired due to environmental factors.
+    - Risk factors include age, lifestyle choices (such as smoking and diet), family history, certain infections, and exposure to chemicals or radiation.
     
-    ## 3. COMMON SYMPTOMS
-    - Unexplained weight changes, fatigue, and persistent pain.
-    - Changes in skin, such as new moles or sores that don't heal.
-    - Persistent cough or hoarseness, difficulty swallowing.
-    - Changes in bowel or bladder habits, unusual bleeding or bruising.
-    - Swelling or lumps in the body, especially in the neck, breast, or groin.
+    ### COMMON SYMPTOMS
+    - Fatigue
+    - Unexplained weight changes
+    - Skin changes, such as yellowing or darkening
+    - Persistent cough or trouble breathing
+    - Changes in bowel or bladder habits
+    - Persistent pain or discomfort
     
-    ## 4. DIAGNOSIS & TESTS
-    - **Screening Tests:** Routine checks like mammograms or colonoscopies can detect cancer early.
-    - **Biopsy:** A small tissue sample is taken and examined for cancer cells.
-    - **Imaging Tests:** CT scans, MRIs, and X-rays help visualize tumors.
-    - **Blood Tests:** Can indicate cancer markers or organ function.
+    ### DIAGNOSIS & TESTS
+    - Cancer is diagnosed through various tests, including biopsies, imaging tests (like CT scans or MRIs), and blood tests.
+    - Early detection through routine screenings can improve treatment outcomes.
     
-    ## 5. TREATMENT OPTIONS
-    - **Surgery:** Removal of the tumor and surrounding tissue.
-    - **Radiation Therapy:** Uses high-energy rays to kill cancer cells.
-    - **Chemotherapy:** Uses drugs to destroy cancer cells.
-    - **Targeted Therapy:** Targets specific molecules involved in cancer growth.
-    - **Immunotherapy:** Boosts the body's immune system to fight cancer.
-    - **Palliative Care:** Focuses on quality of life and symptom management.
+    ### TREATMENT OPTIONS
+    - Treatment depends on the type and stage of cancer and may include surgery, chemotherapy, radiation therapy, immunotherapy, hormone therapy, and targeted drug therapy.
+    - Palliative care may be offered to improve quality of life if cancer cannot be cured.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - **Oncologist:** A doctor specializing in cancer treatment.
-    - **Radiologist:** For imaging tests.
-    - **Surgeon:** For tumor removal.
-    - **Hematologist:** If cancer affects the blood.
+    ### WHICH DOCTOR TO SEE
+    - Oncologists are specialists who diagnose and treat cancer.
+    - Depending on the type of cancer, you may also see surgeons, radiologists, and other specialists.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Sudden, severe pain or unexplained bleeding.
-    - Difficulty breathing or swallowing.
-    - Persistent high fever or night sweats.
-    - Rapid weight loss or extreme fatigue.
+    ### EMERGENCY WARNING SIGNS
+    - Seek immediate medical help if you experience severe pain, difficulty breathing, or sudden changes in your condition.
     
-    ## 8. COMPLICATIONS
-    - Cancer can spread to other parts of the body (metastasis).
-    - It can cause pain, fatigue, and chemical imbalances.
-    - Treatment side effects may include nausea, hair loss, and increased infection risk.
+    ### COMPLICATIONS
+    - Cancer and its treatment can lead to complications such as pain, fatigue, nausea, weight loss, and increased risk of infections.
+    - Some treatments may also increase the risk of developing a second cancer.
     
-    ## 9. PREVENTION TIPS
-    - Quit smoking and limit alcohol intake.
-    - Eat a healthy diet rich in fruits and vegetables.
-    - Exercise regularly and maintain a healthy weight.
-    - Protect skin from excessive sun exposure.
-    - Get vaccinated against cancer-related viruses like HPV.
+    ### PREVENTION TIPS
+    - Avoid smoking and excessive sun exposure.
+    - Maintain a healthy diet and exercise regularly.
+    - Limit alcohol consumption.
+    - Get vaccinated against viruses that can cause cancer, such as HPV and hepatitis B.
+    - Participate in regular cancer screenings.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - Prognosis depends on cancer type, stage, and overall health.
-    - Early detection often leads to better outcomes.
-    - Recovery times vary; some treatments may require weeks to months for full recovery.
-    - Ongoing follow-up care is crucial to monitor for recurrence.
+    ### PROGNOSIS & RECOVERY
+    - The prognosis depends on the type and stage of cancer, as well as the patient's overall health.
+    - Early detection and treatment can improve survival rates.
+    - Recovery times vary; some people may achieve remission, where symptoms are reduced or disappear.
     
-    Remember, if you notice any persistent changes in your body or have concerns about cancer, it's important to consult with a healthcare provider promptly. Early detection and treatment can significantly improve outcomes. Stay informed, stay healthy!
+    In summary, cancer is a complex disease with various causes and risk factors. Early detection through screenings and a healthy lifestyle can help reduce your risk. If diagnosed, a range of treatment options is available, and consulting with an oncologist is crucial for managing the disease. Remember, you are not alone in this journey—support from healthcare providers, family, and friends can be invaluable. Stay informed, take proactive steps for your health, and reach out for support when needed.
 
 --------------------------------------------------------------------------------
   Test #15 [misspelling ] Misspelled condition
@@ -841,46 +842,57 @@
   User Input: "artheritis"
   Search Query: "arthritis causes symptoms treatment doctors"
   Search Results: 5
-  Summary (1951 chars):
-    # Arthritis Health Guide
+  Summary (2565 chars):
+    Arthritis is a common condition that affects the joints, causing pain, stiffness, and swelling. It can impact people of all ages and is a leading cause of disability. While there are over 100 types of arthritis, the most common ones include osteoarthritis and rheumatoid arthritis.
     
-    ## 1. WHAT IS IT?
-    - Arthritis is a term for conditions affecting the joints, causing pain and stiffness. It can affect people of all ages, but is more common in women and older adults.
-    - There are over 100 types of arthritis, with osteoarthritis and rheumatoid arthritis being the most common.
+    ### WHAT IS IT?
+    - Arthritis refers to a group of conditions that cause joint pain and inflammation.
+    - It can affect any joint in the body and varies in severity.
     
-    ## 2. CAUSES & RISK FACTORS
-    - Causes vary by type but may include genetic factors, immune system issues, and metabolic conditions.
-    - Risk factors include being overweight, having a history of joint injuries, and jobs involving repetitive motions.
+    ### CAUSES & RISK FACTORS
+    - Causes include genetic factors, immune system issues, and metabolic conditions.
+    - Risk factors: being overweight, joint injuries, repetitive motions, and age (more common in people over 50).
     
-    ## 3. COMMON SYMPTOMS
+    ### COMMON SYMPTOMS
     - Joint pain, stiffness, and swelling.
-    - Symptoms may include fatigue and can affect other body areas like the eyes.
+    - Fatigue and, in some cases, rashes or eye problems.
     
-    ## 4. DIAGNOSIS & TESTS
-    - Diagnosis involves a physical exam and medical history review.
-    - Tests may include X-rays, MRIs, blood tests, and joint fluid analysis.
+    ### DIAGNOSIS & TESTS
+    - Physical exams to assess joint function and pain.
+    - Imaging tests like X-rays and MRIs to view joint damage.
+    - Blood tests to rule out other conditions like infections or autoimmune diseases.
     
-    ## 5. TREATMENT OPTIONS
-    - Treatments focus on relieving symptoms and improving joint function.
-    - Options include medications (NSAIDs, steroids, DMARDs), physical therapy, and possibly surgery for severe cases.
+    ### TREATMENT OPTIONS
+    - Medications to manage pain and inflammation.
+    - Physical or occupational therapy to improve joint function.
+    - Lifestyle changes such as weight management and exercise.
+    - Surgery in severe cases, including joint replacement.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - Start with your Primary Care Provider (PCP).
-    - You may be referred to a rheumatologist (arthritis specialist) or an orthopedist (joint specialist).
+    ### WHICH DOCTOR TO SEE
+    - Rheumatologist: specializes in arthritis and joint diseases.
+    - Orthopedic surgeon: for surgical interventions if necessary.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Seek immediate help if you experience sudden, intense joint pain, swelling, or redness, which could indicate an infection or other serious condition.
+    ### EMERGENCY WARNING SIGNS
+    - Severe joint pain and swelling.
+    - Sudden inability to move a joint.
+    - High fever with joint symptoms.
     
-    ## 8. COMPLICATIONS
-    - If untreated, arthritis can lead to chronic pain, joint damage, and loss of mobility, impacting daily activities and quality of life.
+    ### COMPLICATIONS
+    - Chronic pain and reduced mobility.
+    - Potential loss of independence and social isolation.
     
-    ## 9. PREVENTION TIPS
-    - Maintain a healthy weight and follow a moderate exercise plan.
-    - Protect joints from overuse and avoid injuries.
+    ### PREVENTION TIPS
+    - Maintain a healthy weight and active lifestyle.
+    - Avoid joint overuse and repetitive strain.
+    - Eat a balanced diet to support joint health.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - While arthritis cannot be cured, early detection and treatment can improve quality of life.
-    - Recovery and management depend on the type of arthritis and adherence to treatment plans.
+    ### PROGNOSIS & RECOVERY
+    - Arthritis is a long-term condition, but symptoms can be managed.
+    - Early diagnosis and treatment improve quality of life and functionality.
+    
+    In summary, arthritis is a manageable condition with the right treatment and lifestyle adjustments. It's important to work closely with healthcare providers to create a personalized care plan. Remember, staying active and maintaining a healthy lifestyle can significantly improve your symptoms and overall well-being.
+    
+    If you suspect you have arthritis or are experiencing joint pain, consult a healthcare provider for a proper diagnosis and treatment plan. Stay positive and proactive in managing your health, and reach out to support groups or resources for additional help and encouragement.
 
 --------------------------------------------------------------------------------
   Test #16 [vague       ] Single word - could be ambiguous
@@ -888,55 +900,55 @@
   User Input: "heart"
   Search Query: "heart disease causes symptoms treatment doctors"
   Search Results: 5
-  Summary (2142 chars):
-    # Heart Disease Health Guide
+  Summary (2735 chars):
+    Heart disease is a term used to describe a variety of conditions that affect the heart. It is the leading cause of death worldwide, affecting millions of people. Understanding heart disease can help you recognize symptoms early and seek appropriate care.
     
-    ## 1. WHAT IS IT?
-    - Heart disease refers to a range of conditions affecting the heart, including coronary artery disease, heart attack, heart failure, and arrhythmias.
-    - It is the leading cause of death worldwide, affecting the heart's ability to pump blood effectively.
+    ### 1. WHAT IS IT?
+    - Heart disease includes conditions like coronary artery disease, heart attacks, heart failure, and abnormal heart rhythms.
+    - It can affect the heart's blood vessels, muscles, valves, or electrical system.
     
-    ## 2. CAUSES & RISK FACTORS
-    - Causes include blocked arteries, high blood pressure, high cholesterol, diabetes, and lifestyle factors like smoking and inactivity.
-    - Risk factors: age, family history, high cholesterol, high blood pressure, smoking, obesity, and diabetes.
+    ### 2. CAUSES & RISK FACTORS
+    - Causes include blocked arteries, heart muscle damage, and valve issues.
+    - Risk factors are high cholesterol, high blood pressure, diabetes, smoking, obesity, and family history.
+    - Lifestyle factors such as poor diet, lack of exercise, and stress also contribute.
     
-    ## 3. COMMON SYMPTOMS
-    - Chest pain or discomfort (angina)
-    - Shortness of breath
-    - Fatigue and dizziness
-    - Swelling in legs, ankles, or feet
-    - Irregular heartbeats
+    ### 3. COMMON SYMPTOMS
+    - Chest pain or discomfort, often called angina.
+    - Shortness of breath, fatigue, and dizziness.
+    - Swelling in the legs, ankles, or feet.
+    - Irregular heartbeats or palpitations.
     
-    ## 4. DIAGNOSIS & TESTS
-    - Physical examination and review of medical history
-    - Diagnostic tests: ECG, echocardiogram, stress tests, cardiac catheterization, and blood tests for cholesterol and sugar levels.
+    ### 4. DIAGNOSIS & TESTS
+    - Diagnosis involves a physical exam, medical history, and tests like ECG, echocardiogram, stress tests, and blood tests.
+    - Imaging tests like chest X-rays, CT scans, and MRIs may be used.
     
-    ## 5. TREATMENT OPTIONS
-    - Lifestyle changes: healthy diet, regular exercise, quitting smoking
-    - Medications: to manage symptoms and prevent complications
-    - Procedures: angioplasty, stents, or bypass surgery for severe cases
+    ### 5. TREATMENT OPTIONS
+    - Lifestyle changes such as diet, exercise, and quitting smoking.
+    - Medications to manage symptoms and prevent complications.
+    - Procedures like angioplasty, stent placement, or bypass surgery.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - Cardiologist: A heart specialist who can diagnose and treat heart conditions.
+    ### 6. WHICH DOCTOR TO SEE
+    - A cardiologist, a specialist in heart conditions, is the primary doctor to consult.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Severe chest pain or discomfort
-    - Pain spreading to shoulders, neck, arms, or jaw
-    - Shortness of breath, fainting, or severe fatigue
-    - Call emergency services immediately if experiencing these symptoms.
+    ### 7. EMERGENCY WARNING SIGNS
+    - Seek immediate help for severe chest pain, shortness of breath, fainting, or symptoms of a heart attack.
     
-    ## 8. COMPLICATIONS
-    - Heart attack, heart failure, stroke, aneurysm, and sudden cardiac arrest
-    - Can lead to life-threatening situations if untreated.
+    ### 8. COMPLICATIONS
+    - Untreated heart disease can lead to heart attacks, heart failure, stroke, and sudden cardiac arrest.
     
-    ## 9. PREVENTION TIPS
-    - Maintain a healthy weight and diet low in salt and saturated fat
-    - Exercise regularly, at least 30 minutes a day
-    - Control blood pressure, cholesterol, and diabetes
-    - Avoid smoking and manage stress effectively
+    ### 9. PREVENTION TIPS
+    - Maintain a healthy diet low in salt and saturated fats.
+    - Exercise regularly and maintain a healthy weight.
+    - Avoid smoking and manage stress effectively.
+    - Regularly monitor blood pressure, cholesterol, and blood sugar levels.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - Early diagnosis and treatment can lead to a better prognosis
-    - Recovery time varies depending on the severity and type of treatment; lifestyle changes can significantly improve heart health and quality of life.
+    ### 10. PROGNOSIS & RECOVERY
+    - With early diagnosis and treatment, many people live full lives.
+    - Recovery time varies depending on the treatment, ranging from days for minor procedures to weeks for surgeries.
+    
+    In summary, heart disease is a serious condition but can often be managed or prevented with lifestyle changes and medical care. Recognizing symptoms early and consulting a healthcare provider can significantly improve outcomes.
+    
+    If you suspect you have heart disease or are at risk, it's important to consult a healthcare provider. They can guide you through the necessary steps to manage your heart health. Remember, taking proactive steps today can lead to a healthier tomorrow.
 
 --------------------------------------------------------------------------------
   Test #17 [vague       ] Single vague symptom
@@ -944,49 +956,54 @@
   User Input: "pain"
   Search Query: "pain medical condition causes symptoms treatment"
   Search Results: 5
-  Summary (2540 chars):
-    # Health Guide: Understanding and Managing Pain
+  Summary (3134 chars):
+    Chronic pain is a complex condition that affects millions of people worldwide. It is characterized by persistent pain that lasts for more than three months and can significantly impact daily life, including physical activities and mental health. Understanding chronic pain and its management is crucial for improving quality of life.
     
-    ## 1. WHAT IS IT?
-    - Pain is a signal in your nervous system indicating that something may be wrong. It can be sharp or dull, mild or severe, and may occur in one area or throughout the body.
-    - Pain can be acute (short-term) or chronic (lasting more than three months).
+    ### 1. WHAT IS IT?
+    - Chronic pain is pain that persists for more than three months and can occur anywhere in the body.
+    - It can result from various conditions, including arthritis, nerve damage, and past injuries.
     
-    ## 2. CAUSES & RISK FACTORS
-    - Causes include injuries, surgeries, arthritis, infections, nerve damage, and chronic conditions like fibromyalgia or cancer.
-    - Risk factors for chronic pain include age, previous injuries, surgeries, and certain health conditions like diabetes.
+    ### 2. CAUSES & RISK FACTORS
+    - Common causes include arthritis, nerve damage, migraines, and back problems.
+    - Risk factors may include previous injuries, surgeries, and certain health conditions like diabetes.
     
-    ## 3. COMMON SYMPTOMS
-    - Joint pain, muscle aches, burning sensations, fatigue, sleep problems, and mood issues like anxiety or depression.
-    - Chronic pain may also cause stiffness, swelling, and reduced range of motion.
+    ### 3. COMMON SYMPTOMS
+    - Persistent pain that can be sharp, dull, burning, or aching.
+    - Associated symptoms may include fatigue, sleep disturbances, and mood changes like depression or anxiety.
     
-    ## 4. DIAGNOSIS & TESTS
-    - Diagnosis involves a physical exam and patient history. Doctors may use scales to rate pain intensity.
-    - Tests may include blood tests, imaging (X-rays, MRI), and nerve conduction studies.
+    ### 4. DIAGNOSIS & TESTS
+    - Diagnosis involves a detailed medical history and physical examination.
+    - Tests may include imaging (like MRI or X-rays), nerve conduction studies, and lab tests to identify underlying causes.
     
-    ## 5. TREATMENT OPTIONS
-    - **Medications:** Over-the-counter pain relievers, NSAIDs, and stronger prescription drugs.
-    - **Therapies:** Physical therapy, acupuncture, massage, chiropractic adjustments, and cognitive-behavioral therapy.
-    - **Procedures:** Trigger point injections, nerve blocks, and in severe cases, surgical implantation.
-    - **Lifestyle Changes:** Exercise, stress management, and dietary adjustments.
+    ### 5. TREATMENT OPTIONS
+    - **Medications:** Over-the-counter pain relievers, NSAIDs, and sometimes stronger prescription medications.
+    - **Physical Therapy:** Exercises to improve movement and reduce pain.
+    - **Complementary Therapies:** Acupuncture, massage, and chiropractic care.
+    - **Psychotherapy:** Cognitive-behavioral therapy to manage emotional aspects of pain.
+    - **Interventional Procedures:** Nerve blocks or spinal cord stimulation for severe cases.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - Start with your primary care provider. They may refer you to a pain management specialist, neurologist, or rheumatologist.
+    ### 6. WHICH DOCTOR TO SEE
+    - Start with a primary care physician who can refer you to a pain management specialist.
+    - Specialists may include neurologists, rheumatologists, or orthopedic doctors depending on the pain's origin.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Seek immediate help if pain is sudden and severe, accompanied by shortness of breath, chest pain, or if it follows an injury.
+    ### 7. EMERGENCY WARNING SIGNS
+    - Seek immediate help if pain is accompanied by symptoms like sudden numbness, weakness, or loss of function.
     
-    ## 8. COMPLICATIONS
-    - Untreated pain can lead to decreased quality of life, depression, anxiety, and reduced ability to perform daily activities.
+    ### 8. COMPLICATIONS
+    - If untreated, chronic pain can lead to reduced mobility, depression, anxiety, and decreased quality of life.
     
-    ## 9. PREVENTION TIPS
-    - Maintain a healthy weight, exercise regularly, manage stress, and avoid smoking.
-    - Follow ergonomic practices at work and home to prevent strain.
+    ### 9. PREVENTION TIPS
+    - Maintain a healthy lifestyle with regular exercise and a balanced diet.
+    - Manage stress and practice good posture to prevent pain exacerbation.
+    - Follow medical advice for managing underlying health conditions.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - Chronic pain may not completely go away, but management strategies can significantly improve quality of life.
-    - Recovery varies; some may find relief with a combination of treatments, while others may need ongoing management.
+    ### 10. PROGNOSIS & RECOVERY
+    - Chronic pain management aims to reduce pain and improve function.
+    - While complete relief may not be possible, a combination of treatments can significantly improve quality of life.
     
-    Remember, managing pain is a journey, and with the right support and treatment plan, you can improve your quality of life. Always consult with healthcare professionals to tailor a plan that suits your needs.
+    In summary, chronic pain is a persistent condition that requires a comprehensive management plan tailored to individual needs. By working closely with healthcare providers, patients can find effective strategies to manage their pain and improve their overall well-being.
+    
+    Remember, you are not alone in this journey. Reach out to your healthcare provider to discuss your symptoms and explore the best treatment options for you. With the right support and management plan, you can regain control over your life and enhance your quality of life.
 
 --------------------------------------------------------------------------------
   Test #18 [vague       ] Very vague
@@ -994,58 +1011,61 @@
   User Input: "sick"
   Search Query: "sick causes symptoms treatment doctors"
   Search Results: 5
-  Summary (2383 chars):
-    # Health Guide: Infectious Diseases
+  Summary (2799 chars):
+    Infectious diseases are illnesses caused by tiny living organisms like bacteria, viruses, fungi, and parasites. These organisms can enter your body and multiply, leading to various symptoms. While some infectious diseases are mild and resolve on their own, others can be severe and require medical attention.
     
-    ## 1. WHAT IS IT?
-    - Infectious diseases are illnesses caused by harmful organisms such as bacteria, viruses, fungi, and parasites that invade the body.
-    - These diseases can spread from person to person, through contaminated food or water, and via insect bites.
+    ### 1. WHAT IS IT?
+    - Infectious diseases are illnesses caused by harmful germs that enter the body.
+    - Common causes include bacteria, viruses, fungi, and parasites.
+    - They can spread from person to person, through contaminated food or water, or via insect bites.
     
-    ## 2. CAUSES & RISK FACTORS
-    - **Causes:** Bacteria (e.g., strep throat), viruses (e.g., COVID-19), fungi (e.g., athlete's foot), and parasites (e.g., malaria).
-    - **Risk Factors:** Weakened immune systems, malnutrition, and certain medical treatments like chemotherapy increase susceptibility.
+    ### 2. CAUSES & RISK FACTORS
+    - **Causes:** Bacteria (e.g., strep throat), viruses (e.g., COVID-19), fungi (e.g., athlete's foot), parasites (e.g., malaria).
+    - **Risk Factors:** Weakened immune system, malnutrition, certain medical treatments, and young children under 5 years old.
     
-    ## 3. COMMON SYMPTOMS
-    - Fever, tiredness, muscle aches, coughing, diarrhea, and night sweats.
-    - Symptoms vary depending on the specific infectious disease.
+    ### 3. COMMON SYMPTOMS
+    - Fever, tiredness, and muscle aches.
+    - Coughing and diarrhea.
+    - Night sweats and faster heartbeat.
     
-    ## 4. DIAGNOSIS & TESTS
+    ### 4. DIAGNOSIS & TESTS
     - Diagnosis is based on symptoms, lab tests, and sometimes imaging.
-    - Tests may include blood tests, cultures, and imaging scans to identify the specific organism causing the infection.
+    - Healthcare providers may perform physical exams and order specific tests to identify the infection type.
     
-    ## 5. TREATMENT OPTIONS
-    - Treatments depend on the cause and may include antibiotics for bacterial infections, antivirals for viral infections, antifungals, and antiparasitic medications.
-    - Supportive care like hydration and rest is often recommended.
+    ### 5. TREATMENT OPTIONS
+    - Treatment depends on the infection cause; may include antibiotics for bacterial infections or antiviral drugs for viral infections.
+    - Some infections require monitoring without medication.
     
-    ## 6. WHICH DOCTOR TO SEE
+    ### 6. WHICH DOCTOR TO SEE
     - Infectious disease specialists or primary care physicians can diagnose and treat infectious diseases.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Seek immediate medical help if you experience trouble breathing, severe headache with fever, a rash with fever, or sudden vision problems.
+    ### 7. EMERGENCY WARNING SIGNS
+    - Seek immediate help if you have trouble breathing, severe headache with fever, or a rash with fever.
+    - Persistent cough, unexplained fever, or sudden vision problems also warrant medical attention.
     
-    ## 8. COMPLICATIONS
-    - Some infections can lead to serious complications like pneumonia, meningitis, or increased cancer risk (e.g., HPV and cervical cancer).
+    ### 8. COMPLICATIONS
+    - Some infections can lead to severe complications like pneumonia, meningitis, or increased cancer risk.
+    - Infections like chickenpox can reactivate later in life as shingles.
     
-    ## 9. PREVENTION TIPS
-    - Wash hands frequently and thoroughly.
+    ### 9. PREVENTION TIPS
+    - Wash hands thoroughly and regularly.
     - Get vaccinated to prevent diseases like measles and chickenpox.
     - Practice safe food handling and avoid sharing personal items.
-    - Use condoms to prevent sexually transmitted diseases.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - Many infectious diseases resolve with treatment, but recovery time varies.
-    - Early diagnosis and treatment generally lead to better outcomes. Some infections may require long-term management or follow-up care. 
+    ### 10. PROGNOSIS & RECOVERY
+    - Many infectious diseases resolve with proper treatment and care.
+    - Recovery time varies depending on the infection type and severity.
     
-    Remember, maintaining good hygiene and staying up-to-date with vaccinations are key steps in preventing infectious diseases. If you have concerns or symptoms, consult a healthcare provider for guidance and treatment.
+    In summary, infectious diseases are caused by various germs and can range from mild to severe. It's important to recognize symptoms early and seek medical advice when necessary. Preventive measures like vaccination and good hygiene can significantly reduce the risk of infection. If you suspect you have an infectious disease, consult a healthcare provider for appropriate diagnosis and treatment. Remember, taking care of your health is a proactive step towards a healthier life.
 
 --------------------------------------------------------------------------------
   Test #19 [vague       ] Single letter
   Status: PASS
   User Input: "a"
-  Search Query: "REJECT:input is too vague to determine if it's health-related"
+  Search Query: "REJECT:insufficient information to determine if health-related"
   Search Results: FAILED
-  Summary (64 chars):
-    REJECTED: input is too vague to determine if it's health-related
+  Summary (65 chars):
+    REJECTED: insufficient information to determine if health-related
 
 --------------------------------------------------------------------------------
   Test #20 [vague       ] Single character (noise)
@@ -1060,121 +1080,118 @@
   Test #21 [complex     ] Detailed elderly patient scenario
   Status: PASS
   User Input: "I am a 65 year old male with high blood pressure and diabetes. Recently I have been feeling chest tightness and my left arm hurts. What could be happening?"
-  Search Query: "chest tightness left arm pain high blood pressure diabetes causes symptoms treatment"
+  Search Query: "chest tightness left arm pain high blood pressure diabetes causes treatment emergency"
   Search Results: 5
-  Summary (3086 chars):
-    # Health Guide: Understanding Left Arm Pain and Its Connection to Heart Health
+  Summary (2964 chars):
+    Left arm pain can be concerning, especially if it occurs suddenly or is severe. While it often results from minor issues like muscle strain, it can sometimes be a warning sign of a more serious condition, such as a heart attack. Understanding the possible causes and knowing when to seek medical help can be crucial.
     
-    ## 1. WHAT IS IT?
-    - Left arm pain can be a sign of various conditions, ranging from harmless muscle strain to serious heart-related issues like a heart attack.
-    - It is important to recognize when left arm pain might be a warning sign of a heart attack, especially if it occurs with other symptoms.
+    ### 1. WHAT IS IT?
+    - Left arm pain can range from a mild ache to intense discomfort. It may be caused by musculoskeletal issues, nerve problems, or, in some cases, heart-related conditions.
     
-    ## 2. CAUSES & RISK FACTORS
-    - **Musculoskeletal Issues**: Muscle strain, tendonitis, arthritis.
-    - **Nerve-related Problems**: Pinched nerve, carpal tunnel syndrome.
-    - **Heart-related Causes**: Heart attack, angina (chest pain due to reduced blood flow to the heart).
-    - **Risk Factors**: High blood pressure, diabetes, smoking, high cholesterol, older age, family history of heart disease.
+    ### 2. CAUSES & RISK FACTORS
+    - **Musculoskeletal Issues**: Muscle strain, tendonitis, or arthritis.
+    - **Nerve Problems**: Pinched nerves, carpal tunnel syndrome.
+    - **Heart Conditions**: Heart attack, especially if accompanied by chest pain.
+    - **Risk Factors**: High blood pressure, diabetes, smoking, and a family history of heart disease.
     
-    ## 3. COMMON SYMPTOMS
-    - Dull ache, pressure, or heaviness in the left arm.
-    - Pain spreading from the chest to the shoulder, arm, neck, jaw, or back.
-    - Shortness of breath, sweating, nausea, or lightheadedness.
-    - Pain that worsens with physical activity and improves with rest (angina).
+    ### 3. COMMON SYMPTOMS
+    - Dull ache or heaviness in the arm.
+    - Pain spreading from the chest to the shoulder, arm, neck, or jaw.
+    - Accompanied by chest discomfort, shortness of breath, or sweating.
     
-    ## 4. DIAGNOSIS & TESTS
-    - **EKG (Electrocardiogram)**: Checks heart rhythm and electrical activity.
-    - **Stress Test**: Assesses how the heart works during physical activity.
-    - **Blood Tests**: Detects heart damage markers.
-    - **Chest X-ray**: Examines lungs and heart size.
-    - **Coronary Angiography**: Visualizes heart arteries to check for blockages.
+    ### 4. DIAGNOSIS & TESTS
+    - **Physical Exam**: Checking for signs of muscle strain or joint issues.
+    - **Electrocardiogram (ECG)**: To check heart activity.
+    - **Blood Tests**: To detect heart damage.
+    - **Imaging**: X-rays or CT scans to rule out other conditions.
     
-    ## 5. TREATMENT OPTIONS
-    - **Medications**: Nitrates, calcium channel blockers, aspirin, blood pressure medications.
-    - **Procedures**: Angioplasty and stent placement, coronary artery bypass grafting (CABG).
-    - **Lifestyle Changes**: Healthy diet, regular exercise, quitting smoking, managing stress.
+    ### 5. TREATMENT OPTIONS
+    - **For Musculoskeletal Causes**: Rest, ice, and over-the-counter pain relievers.
+    - **For Heart-Related Causes**: Medications like nitroglycerin, blood thinners, or procedures like angioplasty.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - Start with your primary care doctor.
-    - Cardiologist: Specialist in heart-related issues.
-    - Orthopedist: For musculoskeletal causes.
+    ### 6. WHICH DOCTOR TO SEE
+    - **Primary Care Doctor**: For initial evaluation.
+    - **Cardiologist**: If heart-related issues are suspected.
+    - **Orthopedist**: For musculoskeletal concerns.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Seek immediate medical help if left arm pain is accompanied by:
-      - Chest pain or tightness lasting more than a few minutes.
-      - Shortness of breath, sweating, or nausea.
-      - Pain radiating to the right arm, neck, jaw, or back.
+    ### 7. EMERGENCY WARNING SIGNS
+    - Severe chest pain or tightness.
+    - Shortness of breath, sweating, or nausea.
+    - Pain radiating to the neck, jaw, or right arm.
+    - Feeling of impending doom or extreme fatigue.
     
-    ## 8. COMPLICATIONS
-    - If left untreated, heart-related left arm pain can lead to a heart attack, which is life-threatening and requires immediate medical attention.
+    ### 8. COMPLICATIONS
+    - If left untreated, heart-related arm pain can lead to serious complications like a heart attack.
     
-    ## 9. PREVENTION TIPS
-    - Maintain a heart-healthy lifestyle:
-      - Eat a balanced diet rich in fruits, vegetables, and whole grains.
-      - Exercise regularly (at least 150 minutes of moderate activity per week).
-      - Avoid smoking and limit alcohol intake.
-      - Manage blood pressure, cholesterol, and blood sugar levels.
+    ### 9. PREVENTION TIPS
+    - Maintain a healthy diet and exercise regularly.
+    - Avoid smoking and limit alcohol intake.
+    - Manage stress and control blood pressure and cholesterol levels.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - The outlook depends on the underlying cause.
-    - Heart-related causes like angina can be managed with lifestyle changes and medications.
-    - Recovery from a heart attack may involve cardiac rehabilitation and lifestyle adjustments.
+    ### 10. PROGNOSIS & RECOVERY
+    - Recovery depends on the underlying cause. Musculoskeletal issues often improve with rest, while heart-related conditions may require ongoing treatment.
     
-    Remember, if you experience new or unexplained left arm pain, especially with other symptoms, consult a healthcare professional promptly. Early evaluation and treatment can make a significant difference in outcomes.
+    In summary, left arm pain can have various causes, from minor injuries to serious heart conditions. It's important to pay attention to accompanying symptoms and risk factors. If you experience severe or unexplained arm pain, especially with chest discomfort, seek medical attention immediately. Remember, timely intervention can be life-saving.
+    
+    If you're concerned about your symptoms, don't hesitate to reach out to a healthcare professional for guidance. Taking proactive steps in managing your health can lead to better outcomes and peace of mind.
 
 --------------------------------------------------------------------------------
   Test #22 [complex     ] Pediatric symptoms
   Status: PASS
   User Input: "my 5 year old son has high fever since 3 days, cough and runny nose"
-  Search Query: "high fever cough runny nose child causes treatment pediatrician"
+  Search Query: "fever cough runny nose child causes treatment pediatrician"
   Search Results: 5
-  Summary (2519 chars):
-    # Health Guide: Understanding and Managing Your Child's Cold
+  Summary (3007 chars):
+    **Understanding the Common Cold in Children**
     
-    ## 1. WHAT IS IT?
-    - A cold is a common viral infection affecting the nose and throat, also known as an upper respiratory infection (URI).
-    - It is characterized by symptoms like a runny or stuffy nose, sore throat, and cough.
+    The common cold is a frequent illness in children, especially during the colder months. It is caused by a variety of viruses and typically affects the nose and throat, leading to symptoms like a runny nose, cough, and sometimes a fever. While it can be uncomfortable, the common cold is usually not serious and tends to resolve on its own with time and supportive care.
     
-    ## 2. CAUSES & RISK FACTORS
-    - Caused by various viruses, including rhinoviruses, coronaviruses, and enteroviruses.
-    - Children are more susceptible due to their developing immune systems and frequent exposure in settings like schools and daycare.
+    ### 1. WHAT IS IT?
+    - The common cold is a viral infection of the upper respiratory tract, primarily affecting the nose and throat.
+    - It is common for children to experience multiple colds each year as their immune systems are still developing.
     
-    ## 3. COMMON SYMPTOMS
-    - Runny or stuffy nose, often starting clear and turning yellow or green.
-    - Sore throat, cough, and sometimes a mild fever.
-    - Possible ear pain, eye discharge, and swollen lymph nodes.
+    ### 2. CAUSES & RISK FACTORS
+    - Caused by over 200 different viruses, with rhinoviruses being the most common.
+    - Children in daycare or school are at higher risk due to close contact with other children.
     
-    ## 4. DIAGNOSIS & TESTS
-    - Typically diagnosed based on symptoms and physical examination.
-    - No specific tests are needed unless complications are suspected.
+    ### 3. COMMON SYMPTOMS
+    - Runny or stuffy nose
+    - Cough
+    - Sore throat
+    - Fever, especially at the start
+    - Sneezing and watery eyes
     
-    ## 5. TREATMENT OPTIONS
-    - Rest and hydration are key. Encourage fluids like water, diluted juice, or warm broth.
-    - Use a cool-mist humidifier and saline nasal spray to ease congestion.
-    - Over-the-counter medications like acetaminophen or ibuprofen can help with fever and discomfort (avoid ibuprofen for children under 6 months).
+    ### 4. DIAGNOSIS & TESTS
+    - Diagnosis is typically based on symptoms and a physical examination.
+    - No specific tests are usually required unless symptoms persist or complications arise.
     
-    ## 6. WHICH DOCTOR TO SEE
-    - A pediatrician is the best specialist to consult for a child's cold.
-    - They can provide guidance on managing symptoms and identify any complications.
+    ### 5. TREATMENT OPTIONS
+    - Supportive care is key: ensure the child is comfortable and hydrated.
+    - Use saline nasal drops and a bulb syringe for nasal congestion.
+    - Over-the-counter medications like acetaminophen or ibuprofen can be used for fever and discomfort (avoid ibuprofen in children under 6 months).
+    - Avoid giving over-the-counter cold medicines to children under 4 years old.
     
-    ## 7. EMERGENCY WARNING SIGNS
-    - Seek immediate help if your child has trouble breathing, a high fever (above 104°F), or shows signs of dehydration (e.g., dry mouth, no tears when crying).
-    - Call 911 if your child has severe difficulty breathing, bluish lips, or is unresponsive.
+    ### 6. WHICH DOCTOR TO SEE
+    - A pediatrician is the best specialist to consult for a child with a cold.
     
-    ## 8. COMPLICATIONS
-    - Possible complications include ear infections, sinus infections, and more serious respiratory illnesses like pneumonia.
-    - Children with asthma may experience flare-ups.
+    ### 7. EMERGENCY WARNING SIGNS
+    - Seek immediate medical help if the child has difficulty breathing, is dehydrated, or has a high fever that persists.
     
-    ## 9. PREVENTION TIPS
-    - Encourage regular handwashing to prevent the spread of viruses.
-    - Vaccinate against flu and COVID-19 if eligible.
-    - Avoid exposure to cigarette smoke and other irritants.
+    ### 8. COMPLICATIONS
+    - While most colds are mild, they can lead to bacterial infections such as ear infections or sinusitis in some cases.
     
-    ## 10. PROGNOSIS & RECOVERY
-    - Most colds resolve on their own within 7-10 days.
-    - Some symptoms, like a cough, may linger for a few weeks.
-    - Ensure your child stays hydrated and gets plenty of rest for a smooth recovery.
+    ### 9. PREVENTION TIPS
+    - Encourage frequent handwashing.
+    - Keep children away from others who are sick.
+    - Ensure vaccinations are up to date, including flu and COVID vaccines.
     
-    Remember, while colds are common and usually not serious, it's important to monitor your child's symptoms and seek medical advice if you have concerns. Your pediatrician is there to support you and your child's health.
+    ### 10. PROGNOSIS & RECOVERY
+    - Most children recover from a cold within 7 to 10 days.
+    - Symptoms like a cough or runny nose may linger for up to 3 weeks.
+    
+    In summary, the common cold is a typical part of childhood, helping to build immunity. While it can be uncomfortable, it usually resolves without serious complications. Supportive care at home is often sufficient, but it's important to monitor for any signs of complications. If you have concerns about your child's symptoms or if they seem to be worsening, don't hesitate to contact your pediatrician for guidance.
+    
+    Remember, you're not alone in this. Many parents face the same challenges, and your pediatrician is there to support you and your child. Keep up with preventive measures like handwashing and vaccinations, and reach out to your healthcare provider if you have any questions or need reassurance.
 
 --------------------------------------------------------------------------------
   Test #23 [non-medical ] Non-medical input
