@@ -36,12 +36,16 @@ SEARCH_FAILURE_PHRASES = [
 
 def build_medical_query(user_input: str) -> str:
     prompt = [
-        SystemMessage("You convert patient input into a precise medical search query. "
-                      "Output ONLY the search query, nothing else."),
-        HumanMessage(f"Patient says: '{user_input}'. "
-                     "If it names a condition, output: '<condition> causes symptoms treatment doctors' "
-                     "If it describes symptoms, output: '<symptoms> medical condition causes treatment' "
-                     "Keep it concise.")
+        SystemMessage("You are a medical triage assistant. Determine if the input is health-related. "
+                      "If YES: output a precise medical search query. "
+                      "If NO: output 'REJECT:' followed by a short reason.\n\n"
+                      "Examples:\n"
+                      "- 'diabetes' -> diabetes causes symptoms treatment doctors\n"
+                      "- 'chest pain' -> chest pain medical condition causes treatment\n"
+                      "- 'how to fix a car' -> REJECT:not a health topic\n"
+                      "- 'pasta recipe' -> REJECT:not a health topic\n"
+                      "- 'heart' -> heart disease causes symptoms treatment doctors"),
+        HumanMessage(f"Patient says: '{user_input}'")
     ]
     return llm.invoke(prompt).content.strip()
 
@@ -173,6 +177,18 @@ for tid, category, user_input, desc in TEST_CASES:
         med_query = build_medical_query(user_input)
         test_result["med_query"] = med_query
         print(f"  |- Query: \"{med_query}\"")
+
+        if med_query.startswith("REJECT:"):
+            reason = med_query.replace("REJECT:", "").strip()
+            print(f"  |- Result: SAFELY REJECTED (non-medical: {reason})")
+            test_result["status"] = "PASS"
+            test_result["search"] = {"success": False, "count": 0, "data": f"REJECTED: {reason}"}
+            test_result["summary"] = {"success": True, "summary": f"REJECTED: {reason}"}
+            results.append(test_result)
+            passed += 1
+            time.sleep(0.3)
+            continue
+
         time.sleep(0.5)
     except Exception as e:
         test_result["med_query"] = f"ERROR: {e}"
